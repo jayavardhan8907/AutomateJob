@@ -267,4 +267,26 @@
 - [ ] https://jobs.lever.co/plaid/2e7c75c3-1da5-4eb4-9b60-44de246a0fd8 | Plaid | Senior Machine Learning Engineer (Research Scientist) - Data Foundation & AI
 - [ ] https://jobs.lever.co/plaid/90b7be5b-30f3-43c0-b576-879065991072 | Plaid | Staff Software Engineer - Online Storage
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5031670008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112493008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057258008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5055488008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117652008 | Anthropic | Manager of Applied AI Architecture, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198074008 | Anthropic | Research Engineer, Machine Learning (RL Velocity)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7606649 | Intercom | Senior Data Scientist AI Tooling
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7271603 | Intercom | Senior Machine Learning Scientist 
+- [ ] https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9 | Cohere | Forward Deployed Engineer, Agentic Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a | Sierra AI | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c | Sierra AI | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/3437596e-e545-42a9-af82-9947fabf828c | Sierra AI | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ed38b1c1-2862-4e40-9894-3c6f20f7a785 | Sierra AI | Strategist, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/569ba29b-de35-4bce-a16c-e27cb9b683ea | Sierra AI | GTM Operations Analyst, Agent Development
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7488023 | Recursion Pharmaceuticals | Staff Product Manager, Agentic Systems
+- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate
+- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer
+
 ## Procesadas
