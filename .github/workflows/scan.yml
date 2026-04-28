@@ -1,0 +1,37 @@
+name: Career Ops — Auto Scan
+
+on:
+  schedule:
+    - cron: '0 3 */2 * *'   # every 2 days at 3am IST (9:30pm UTC)
+  workflow_dispatch:          # also allows manual trigger from GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Run scanner
+        run: node scan.mjs
+
+      - name: Commit scan results
+        run: |
+          git config user.name "career-ops-bot"
+          git config user.email "career-ops@github-actions"
+          git add data/pipeline.md data/scan-history.tsv
+          git diff --staged --quiet || git commit -m "chore: auto-scan $(date +'%Y-%m-%d')"
+          git push

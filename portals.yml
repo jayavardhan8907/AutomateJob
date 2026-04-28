@@ -1,0 +1,1178 @@
+# Portal Scanner Configuration — Jayavardhan Kolla
+# Profile: GenAI / AI Engineer | Healthcare AI + AI-first companies | Chennai India + International Remote
+# Targets: AI Engineer, GenAI Engineer, LLM Engineer, ML Engineer, NLP Engineer
+# Markets: India (16-18 LPA) + International Remote (USD)
+
+# -- Title filter --
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Core AI/ML roles --
+    - "AI Engineer"
+    - "AI Developer"
+    - "Applied AI"
+    - "GenAI"
+    - "Generative AI"
+    - "LLM"
+    - "Machine Learning"
+    - "ML Engineer"
+    - "Deep Learning"
+    - "NLP"
+    - "NLP Engineer"
+    # -- Agent/RAG/LLMOps --
+    - "Agent"
+    - "Agentic"
+    - "RAG"
+    - "LLMOps"
+    - "MLOps"
+    - "Prompt Engineer"
+    # -- Healthcare/Clinical AI --
+    - "Clinical AI"
+    - "Healthcare AI"
+    - "Medical AI"
+    - "Health AI"
+    - "AI Scribe"
+    - "Ambient AI"
+    # -- Voice/Speech AI --
+    - "Voice AI"
+    - "Conversational AI"
+    - "Speech"
+    # -- Broader AI Engineering --
+    - "AI Software Engineer"
+    - "AI Research Engineer"
+    - "Data Scientist"
+    - "Computer Vision"
+    - "Multimodal"
+
+  negative:
+    # Roles outside target
+    - "Intern"
+    - ".NET"
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "SAP "
+    - "COBOL"
+    - "Mainframe"
+    - "Salesforce Admin"
+    - "Oracle EBS"
+    # Non-technical roles
+    - "Sales Engineer"
+    - "Account Executive"
+    - "Account Manager"
+    - "Marketing"
+    - "Recruiter"
+    - "HR "
+
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Lead"
+    - "Principal"
+
+# -- Search queries --
+# Covers India job portals + international remote AI roles + Healthcare AI specific
+
+search_queries:
+
+  # ================================================================
+  # INDIA JOB PORTALS
+  # ================================================================
+
+  - name: Naukri — AI Engineer India
+    query: 'site:naukri.com "AI Engineer" OR "GenAI Engineer" OR "LLM Engineer" OR "Applied AI" Chennai OR Bangalore OR "remote"'
+    enabled: true
+
+  - name: Naukri — ML/NLP Engineer India
+    query: 'site:naukri.com "Machine Learning Engineer" OR "NLP Engineer" OR "Deep Learning" OR "Generative AI" Chennai OR Bangalore OR "remote"'
+    enabled: true
+
+  - name: Cutshort — AI/ML Remote India
+    query: 'site:cutshort.io "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" OR "NLP" remote India'
+    enabled: true
+
+  - name: Cutshort — Healthcare AI India
+    query: 'site:cutshort.io "Healthcare AI" OR "Clinical AI" OR "Medical AI" OR "AI Engineer" healthtech OR medtech India'
+    enabled: true
+
+  - name: Instahyre — AI Engineer India
+    query: 'site:instahyre.com "AI Engineer" OR "GenAI" OR "LLM" OR "Machine Learning" OR "Applied AI" Chennai OR Bangalore OR remote'
+    enabled: true
+
+  - name: iimjobs — AI/ML Engineer India
+    query: 'site:iimjobs.com "AI Engineer" OR "ML Engineer" OR "NLP" OR "LLM" OR "Generative AI" India'
+    enabled: true
+
+  - name: Hirist — AI/ML Tech India
+    query: 'site:hirist.tech "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" OR "Deep Learning" India'
+    enabled: true
+
+  - name: Wellfound — AI Startups India Remote
+    query: 'site:wellfound.com "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" India OR remote'
+    enabled: true
+
+  - name: LinkedIn — AI Engineer India Remote
+    query: 'site:linkedin.com/jobs "AI Engineer" OR "GenAI Engineer" OR "LLM Engineer" India OR "remote" "LangChain" OR "RAG" OR "healthcare"'
+    enabled: true
+
+  # ================================================================
+  # HEALTHCARE AI — GLOBAL (REMOTE-FRIENDLY)
+  # ================================================================
+
+  - name: Greenhouse — Healthcare AI Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "clinical AI" OR "healthcare AI" OR "medical AI" OR "ambient" "engineer" remote OR India'
+    enabled: true
+
+  - name: Ashby — Healthcare AI / Clinical AI
+    query: 'site:jobs.ashbyhq.com "clinical" OR "healthcare" OR "medical" "AI Engineer" OR "ML Engineer" OR "LLM" remote'
+    enabled: true
+
+  - name: Lever — Healthcare / Health Tech AI
+    query: 'site:jobs.lever.co "healthcare" OR "health" OR "clinical" "AI Engineer" OR "ML Engineer" OR "NLP" remote'
+    enabled: true
+
+  - name: AI Scribe — Ambient Clinical Documentation
+    query: '"AI scribe" OR "ambient AI" OR "clinical documentation" "engineer" OR "ML" OR "NLP" remote site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR site:jobs.lever.co'
+    enabled: true
+
+  - name: Health AI — Global Remote boards
+    query: '"healthcare AI" OR "clinical NLP" OR "medical LLM" OR "EHR AI" "engineer" remote site:himalayas.app OR site:remotive.com OR site:weworkremotely.com'
+    enabled: true
+
+  # ================================================================
+  # INTERNATIONAL AI — REMOTE FRIENDLY (India)
+  # ================================================================
+
+  - name: Greenhouse — AI / LLM Engineer Remote
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "AI Engineer" OR "LLM Engineer" OR "Applied AI" OR "GenAI" remote'
+    enabled: true
+
+  - name: Ashby — AI / GenAI Engineer Remote
+    query: 'site:jobs.ashbyhq.com "AI Engineer" OR "GenAI Engineer" OR "LLM Engineer" OR "Applied AI" remote'
+    enabled: true
+
+  - name: Ashby — ML / NLP Engineer Remote
+    query: 'site:jobs.ashbyhq.com "ML Engineer" OR "NLP Engineer" OR "Machine Learning" OR "Generative AI" remote'
+    enabled: true
+
+  - name: Lever — AI / LLM Engineer Remote
+    query: 'site:jobs.lever.co "AI Engineer" OR "LLM Engineer" OR "Applied AI" OR "GenAI" remote'
+    enabled: true
+
+  - name: Workable — AI Engineer Remote India
+    query: 'site:apply.workable.com "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" remote OR India'
+    enabled: true
+
+  - name: HN Who's Hiring — AI Remote
+    query: 'site:news.ycombinator.com "AI Engineer" OR "ML Engineer" OR "LLM" OR "Applied AI" remote "India" OR "anywhere"'
+    enabled: true
+
+  - name: Naukri — Healthcare AI India
+    query: 'site:naukri.com "healthcare AI" OR "clinical AI" OR "medical AI" OR "health tech" "AI Engineer" OR "ML Engineer" OR "NLP" India'
+    enabled: true
+
+  - name: Cutshort — LangChain / RAG roles India
+    query: 'site:cutshort.io "LangChain" OR "LangGraph" OR "RAG" OR "LLM" OR "GenAI" engineer India remote'
+    enabled: true
+
+  - name: Greenhouse — India AI companies
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "AI Engineer" OR "ML Engineer" OR "GenAI" India Bangalore OR Chennai OR Hyderabad'
+    enabled: true
+
+  - name: Ashby — AI Engineer India remote
+    query: 'site:jobs.ashbyhq.com "AI Engineer" OR "GenAI Engineer" OR "ML Engineer" India OR "India-based" OR "remote India"'
+    enabled: true
+
+  - name: SmartRecruiters — India AI
+    query: 'site:careers.smartrecruiters.com "AI" OR "ML" OR "LLM" OR "NLP" OR "GenAI" engineer India Bangalore OR Chennai OR Hyderabad'
+    enabled: true
+
+  - name: YC Jobs — AI Engineer Remote
+    query: 'site:workatastartup.com "AI Engineer" OR "GenAI" OR "LLM Engineer" OR "Applied AI" remote India OR anywhere'
+    enabled: true
+
+  - name: Himalayas — AI Engineer Remote
+    query: 'site:himalayas.app "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" OR "NLP" remote'
+    enabled: true
+
+  - name: RemoteOK — AI/ML Engineer
+    query: 'site:remoteok.com "AI Engineer" OR "ML Engineer" OR "LLM" OR "GenAI" OR "NLP Engineer"'
+    enabled: true
+
+  - name: WeWorkRemotely — AI/ML
+    query: 'site:weworkremotely.com "AI Engineer" OR "ML Engineer" OR "Machine Learning" OR "GenAI" OR "LLM"'
+    enabled: true
+
+  - name: ai-jobs.net — AI Engineer Remote
+    query: 'site:ai-jobs.net "AI Engineer" OR "ML Engineer" OR "Applied AI" OR "LLM" OR "GenAI" remote'
+    enabled: true
+
+  - name: Remotive — AI/ML Remote
+    query: 'site:remotive.com "AI Engineer" OR "ML Engineer" OR "LLM" OR "NLP" OR "GenAI" remote'
+    enabled: true
+
+# -- Tracked companies --
+# Direct career page scanning for companies most relevant to your profile.
+
+tracked_companies:
+
+  # ================================================================
+  # AMBIENT CLINICAL DOCUMENTATION AI — BEST FIT (matches ScribeX)
+  # ================================================================
+
+  - name: Abridge
+    careers_url: https://www.abridge.com/careers
+    scan_method: websearch
+    scan_query: '"abridge" "AI" OR "ML" OR "NLP" OR "engineer" site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "abridge.com/careers"'
+    notes: "Pittsburgh/Remote. #1 AI clinical documentation — Mayo, Kaiser, Sloan Kettering. Exact match for ScribeX experience."
+    enabled: true
+
+  - name: Suki AI
+    careers_url: https://www.suki.ai/careers
+    scan_method: websearch
+    scan_query: '"suki.ai" OR "suki ai" "engineer" OR "ML" OR "NLP" OR "AI" careers site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "suki.ai/careers"'
+    notes: "US/Remote. AI voice assistant for clinical documentation. Strong LLM + speech stack."
+    enabled: true
+
+  - name: Ambience Healthcare
+    careers_url: https://www.ambiencehealthcare.com/careers
+    scan_method: websearch
+    scan_query: '"ambience healthcare" "engineer" OR "AI" OR "NLP" OR "ML" careers site:jobs.ashbyhq.com OR site:boards.greenhouse.io'
+    notes: "US/Remote. Ambient AI for clinical documentation. YC-backed."
+    enabled: true
+
+  - name: DeepScribe
+    careers_url: https://www.deepscribe.ai/careers
+    scan_method: websearch
+    scan_query: '"deepscribe" "AI" OR "engineer" OR "NLP" OR "ML" site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "deepscribe.ai/careers"'
+    notes: "US/Remote. AI medical scribe. Direct competitor to ScribeX — exact domain fit."
+    enabled: true
+
+  - name: Nabla
+    careers_url: https://www.nabla.com/careers
+    scan_method: websearch
+    scan_query: '"nabla" "AI" OR "engineer" OR "NLP" OR "ML" clinical documentation site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "nabla.com"'
+    notes: "Paris/Remote. AI copilot for physicians — ambient clinical documentation."
+    enabled: true
+
+  - name: Nuance (Microsoft)
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Nuance" OR "Dragon" OR "DAX" "AI" OR "NLP" OR "clinical" engineer India OR remote'
+    notes: "Microsoft Nuance — Dragon Ambient eXperience (DAX). Enterprise ambient clinical AI. India hiring."
+    enabled: true
+
+  - name: Augnito
+    careers_url: https://www.augnito.ai/about-us/careers
+    scan_method: websearch
+    scan_query: '"augnito" "engineer" OR "AI" OR "NLP" OR "ML" careers site:augnito.ai OR site:linkedin.com'
+    notes: "India-based (Mumbai). Voice AI for clinical documentation. Exact match — ambient NLP, multi-lingual, EHR-ready."
+    enabled: true
+
+  # ================================================================
+  # MEDICAL IMAGING / RADIOLOGY AI — MATCHES DVF QUALITY TOOL
+  # ================================================================
+
+  - name: Qure.ai
+    careers_url: https://www.qure.ai/careers
+    scan_method: websearch
+    scan_query: '"qure.ai" OR "qure ai" "engineer" OR "AI" OR "ML" OR "deep learning" careers site:qure.ai OR site:cutshort.io OR site:instahyre.com'
+    notes: "Mumbai India. $125M funded. Radiology AI (TB, stroke, lung) — matches DVF diagnostic validation experience."
+    enabled: true
+
+  - name: Niramai
+    careers_url: https://www.niramai.com/careers
+    scan_method: websearch
+    scan_query: '"niramai" "engineer" OR "AI" OR "ML" OR "NLP" careers site:niramai.com OR site:cutshort.io OR site:naukri.com'
+    notes: "Bangalore India. Breast cancer screening AI. India-based, healthcare AI vertical."
+    enabled: true
+
+  - name: SigTuple
+    careers_url: https://sigtuple.com/careers
+    scan_method: websearch
+    scan_query: '"sigtuple" "engineer" OR "AI" OR "ML" OR "deep learning" careers site:sigtuple.com OR site:cutshort.io OR site:naukri.com'
+    notes: "Bangalore India. Medical AI — blood/microscopy analysis. India healthcare AI."
+    enabled: true
+
+  - name: Aidoc
+    careers_url: https://www.aidoc.com/careers
+    scan_method: websearch
+    scan_query: '"aidoc" "engineer" OR "AI" OR "ML" OR "NLP" careers site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "aidoc.com/careers"'
+    notes: "Tel Aviv/Remote. Radiology AI triaging — stroke, PE, hemorrhage."
+    enabled: true
+
+  - name: Viz.ai
+    careers_url: https://www.viz.ai/careers
+    scan_method: websearch
+    scan_query: '"viz.ai" "engineer" OR "AI" OR "ML" OR "NLP" careers site:jobs.ashbyhq.com OR site:boards.greenhouse.io OR "viz.ai/careers"'
+    notes: "US/Remote. Clinical AI for care coordination — stroke, cardiac, oncology."
+    enabled: true
+
+  - name: Tempus AI
+    careers_url: https://job-boards.greenhouse.io/tempus
+    api: https://boards-api.greenhouse.io/v1/boards/tempus/jobs
+    notes: "Chicago/Remote. AI genomics + clinical data platform. NYSE listed."
+    enabled: true
+
+  - name: PathAI
+    careers_url: https://job-boards.greenhouse.io/pathai
+    api: https://boards-api.greenhouse.io/v1/boards/pathai/jobs
+    notes: "Boston/Remote. AI pathology — cancer diagnosis. Strong ML/deep learning roles."
+    enabled: true
+
+  # ================================================================
+  # HEALTHTECH PLATFORMS (INDIA + GLOBAL)
+  # ================================================================
+
+  - name: Innovaccer
+    careers_url: https://innovaccer.com/company/careers
+    scan_method: websearch
+    scan_query: '"innovaccer" "engineer" OR "AI" OR "ML" OR "NLP" OR "LLM" site:boards.greenhouse.io OR site:jobs.ashbyhq.com OR "innovaccer.com/careers"'
+    notes: "San Francisco + India (Noida). Healthcare data platform + AI. India-founded, strong India hiring."
+    enabled: true
+
+  - name: Practo
+    careers_url: https://www.practo.com/company/careers
+    scan_method: websearch
+    scan_query: '"practo" "AI" OR "ML" OR "NLP" OR "engineer" site:cutshort.io OR site:instahyre.com OR site:practo.com/careers'
+    notes: "Bangalore India. Largest digital health platform India. AI team hiring."
+    enabled: true
+
+  - name: 1mg (Tata Health)
+    careers_url: https://www.1mg.com/careers
+    scan_method: websearch
+    scan_query: '"1mg" OR "tata 1mg" "AI" OR "ML" OR "NLP" OR "engineer" careers site:cutshort.io OR site:instahyre.com OR site:naukri.com'
+    notes: "Gurugram India. India's largest online pharmacy + digital health (Tata). AI team."
+    enabled: true
+
+  - name: Eka Care
+    careers_url: https://www.eka.care/careers
+    scan_method: websearch
+    scan_query: '"eka care" OR "ekacare" "AI" OR "ML" OR "NLP" OR "engineer" careers site:cutshort.io OR site:instahyre.com OR site:eka.care'
+    notes: "Bangalore India. AI-powered personal health records + clinical decision support."
+    enabled: true
+
+  - name: Veeva Systems
+    careers_url: https://job-boards.greenhouse.io/veeva
+    api: https://boards-api.greenhouse.io/v1/boards/veeva/jobs
+    notes: "Remote-first. Life sciences cloud — pharma/biotech AI. Hires remotely from India."
+    enabled: true
+
+  # ================================================================
+  # INDIAN AI STARTUPS (LLM / CONVERSATIONAL AI / NLP)
+  # ================================================================
+
+  - name: Sarvam AI
+    careers_url: https://www.sarvam.ai/careers
+    scan_method: websearch
+    scan_query: '"sarvam ai" OR "sarvam.ai" "engineer" OR "AI" OR "NLP" OR "speech" OR "LLM" careers site:sarvam.ai OR site:cutshort.io OR site:instahyre.com'
+    notes: "Bangalore India. India's leading LLM lab — speech, text, translation, agents. Top fit for LangChain/RAG stack."
+    enabled: true
+
+  - name: Krutrim (Ola AI)
+    careers_url: https://krutrim.com/careers
+    scan_method: websearch
+    scan_query: '"krutrim" "engineer" OR "AI" OR "ML" OR "LLM" OR "NLP" site:instahyre.com OR site:krutrim.com/careers OR site:cutshort.io'
+    notes: "Bangalore India. Ola's AI lab — foundation models, GenAI research. Series A."
+    enabled: true
+
+  - name: Yellow.ai
+    careers_url: https://yellow.ai/career
+    scan_method: websearch
+    scan_query: '"yellow.ai" "engineer" OR "AI" OR "ML" OR "NLP" OR "LLM" careers site:yellow.ai OR site:cutshort.io OR site:instahyre.com'
+    notes: "Bangalore India. Conversational AI for CX/EX — 15+ LLM architecture. Series C+."
+    enabled: true
+
+  - name: Gnani.ai
+    careers_url: https://www.gnani.ai/careers
+    scan_method: websearch
+    scan_query: '"gnani.ai" OR "gnani ai" "engineer" OR "AI" OR "NLP" OR "voice" OR "agentic" careers site:gnani.ai OR site:cutshort.io OR site:naukri.com'
+    notes: "Bangalore India. Agentic AI for enterprises — voice AI + conversational. Samsung-backed."
+    enabled: true
+
+  - name: Observe.AI
+    careers_url: https://www.observe.ai/careers
+    scan_method: websearch
+    scan_query: '"observe.ai" "engineer" OR "AI" OR "ML" OR "NLP" careers site:boards.greenhouse.io OR site:jobs.ashbyhq.com OR "observe.ai/careers"'
+    notes: "US + India. Conversational AI for contact centers. India-founded, Series C+."
+    enabled: true
+
+  - name: Haptik (Jio)
+    careers_url: https://haptik.ai/careers
+    scan_method: websearch
+    scan_query: '"haptik" "engineer" OR "AI" OR "ML" OR "NLP" OR "LLM" careers site:haptik.ai OR site:cutshort.io OR site:naukri.com'
+    notes: "Mumbai India. Conversational AI platform — acquired by Reliance Jio."
+    enabled: true
+
+  - name: Mad Street Den (Vue.ai)
+    careers_url: https://vue.ai/careers
+    scan_method: websearch
+    scan_query: '"mad street den" OR "vue.ai" "engineer" OR "AI" OR "ML" OR "NLP" careers site:cutshort.io OR site:instahyre.com OR site:vue.ai'
+    notes: "Chennai India. AI for retail — visual AI + NLP. Chennai-based, great location fit."
+    enabled: true
+
+  - name: Arya.ai
+    careers_url: https://arya.ai/careers
+    scan_method: websearch
+    scan_query: '"arya.ai" "engineer" OR "AI" OR "ML" OR "NLP" OR "LLM" careers site:arya.ai OR site:cutshort.io OR site:naukri.com'
+    notes: "Mumbai India. AI for BFSI (banking, financial services, insurance). LLM + ML roles."
+    enabled: true
+
+  # ================================================================
+  # INTERNATIONAL AI LABS & LLM PROVIDERS
+  # ================================================================
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    notes: "Opening Bengaluru office 2026. Applied AI Architect + Engineering roles targeting India. Top priority."
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    scan_method: websearch
+    scan_query: 'site:openai.com/careers "AI Engineer" OR "Applied AI" OR "ML Engineer" India OR remote'
+    notes: "India expansion announced 2026. High comp. Competitive."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "Toronto/Remote. LLM API provider. Remote-friendly hiring."
+    enabled: true
+
+  - name: Hugging Face
+    careers_url: https://apply.workable.com/huggingface/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/huggingface "AI" OR "ML" OR "engineer" remote'
+    notes: "Paris/NYC/Remote. ML hub and open-source models. Remote-first."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris/Remote. European LLM lab. Growing fast."
+    enabled: true
+
+  - name: Perplexity AI
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/perplexity "AI" OR "engineer" OR "ML"'
+    notes: "Remote-first + major India hiring push (1M+ India users). Good USD opportunity."
+    enabled: true
+
+  # ================================================================
+  # AI TOOLING / PLATFORMS (LangChain stack match)
+  # ================================================================
+
+  - name: LangChain
+    careers_url: https://jobs.ashbyhq.com/langchain
+    notes: "Exact stack match — LangChain/LangGraph. Small team, high impact. Remote."
+    enabled: true
+
+  - name: Pinecone
+    careers_url: https://jobs.ashbyhq.com/pinecone
+    notes: "Vector database — core RAG infrastructure. Remote-friendly."
+    enabled: true
+
+  - name: Weights & Biases
+    careers_url: https://jobs.lever.co/wandb
+    notes: "MLOps platform. Hires remotely. Strong ML engineering culture."
+    enabled: true
+
+  - name: Arize AI
+    careers_url: https://job-boards.greenhouse.io/arizeai
+    api: https://boards-api.greenhouse.io/v1/boards/arizeai/jobs
+    notes: "LLMOps / AI observability. Remote-friendly."
+    enabled: true
+
+  - name: Glean
+    careers_url: https://job-boards.greenhouse.io/gleanwork
+    api: https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs
+    notes: "Enterprise AI search. India presence + remote-friendly culture."
+    enabled: true
+
+  - name: Langfuse
+    careers_url: https://langfuse.com/careers
+    scan_method: websearch
+    scan_query: '"langfuse" careers OR jobs "engineer" OR "solutions" remote'
+    notes: "Berlin/Remote. LLMOps / LLM observability. Open-source."
+    enabled: true
+
+  # ================================================================
+  # VOICE / SPEECH AI (matches Vassist voice interaction feature)
+  # ================================================================
+
+  - name: ElevenLabs
+    careers_url: https://jobs.ashbyhq.com/elevenlabs
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/elevenlabs "AI" OR "engineer" OR "ML"'
+    notes: "Voice AI TTS leader. Remote-friendly."
+    enabled: true
+
+  - name: Deepgram
+    careers_url: https://jobs.ashbyhq.com/deepgram
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/deepgram OR site:deepgram.com/careers "engineer" OR "AI" OR "ML"'
+    notes: "STT/TTS APIs. Strong speech AI — matches ScribeX audio pipeline."
+    enabled: true
+
+  - name: Hume AI
+    careers_url: https://job-boards.greenhouse.io/humeai
+    api: https://boards-api.greenhouse.io/v1/boards/humeai/jobs
+    notes: "Empathic voice AI. NYC/Remote."
+    enabled: true
+
+  - name: Vapi
+    careers_url: https://jobs.ashbyhq.com/vapi
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/vapi'
+    notes: "Voice AI infrastructure. Remote."
+    enabled: true
+
+  # ================================================================
+  # AWS / CLOUD AI (matches AWS Bedrock/Textract/Transcribe experience)
+  # ================================================================
+
+  - name: AWS India (Amazon)
+    careers_url: https://www.amazon.jobs/en/locations/india
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs "AI" OR "ML" OR "LLM" OR "NLP" OR "Applied AI" India Chennai OR Bangalore OR Hyderabad'
+    notes: "AWS has Bedrock/AI teams in India. Matches your AWS Textract/Transcribe/Bedrock production experience."
+    enabled: true
+
+  - name: Microsoft India (Azure AI / Nuance)
+    careers_url: https://careers.microsoft.com/v2/global/en/locations/india.html
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "AI" OR "ML" OR "NLP" OR "LLM" OR "applied AI" India Chennai OR Bangalore OR Hyderabad'
+    notes: "Azure AI, Nuance DAX (ambient clinical AI), Copilot — all relevant teams in India."
+    enabled: true
+
+  - name: Google India (DeepMind / Google AI)
+    careers_url: https://careers.google.com/locations/india/
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "AI" OR "ML" OR "NLP" OR "LLM" India engineer OR researcher'
+    notes: "Google AI + DeepMind India. Hyderabad/Bangalore offices."
+    enabled: true
+
+  # ================================================================
+  # CONVERSATIONAL AI / CONTACT CENTER AI
+  # ================================================================
+
+  - name: Sierra AI
+    careers_url: https://jobs.ashbyhq.com/sierra
+    scan_method: websearch
+    scan_query: '"sierra.ai" "AI" OR "Applied" OR "engineer" site:jobs.ashbyhq.com'
+    notes: "Bret Taylor (ex-CEO Salesforce). AI customer agents. Strong AI engineering culture."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin/Remote. Fin AI agent — LLM-powered customer support."
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://www.twilio.com/en-us/company/jobs
+    scan_method: websearch
+    scan_query: 'site:twilio.com/company/jobs "AI" OR "Voice" OR "NLP" OR "ML" engineer India OR remote'
+    notes: "Voice/messaging infrastructure. India hiring. Conversational AI stack."
+    enabled: true
+
+  # ================================================================
+  # ADDITIONAL REMOTE-FRIENDLY AI COMPANIES
+  # ================================================================
+
+  - name: Runway
+    careers_url: https://job-boards.greenhouse.io/runwayml
+    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
+    notes: "Generative AI video/creative. AI engineering roles."
+    enabled: true
+
+  - name: Stability AI
+    careers_url: https://job-boards.greenhouse.io/stabilityai
+    api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
+    notes: "London/SF/Remote. Generative AI image/video research."
+    enabled: true
+
+  - name: Hightouch
+    careers_url: https://job-boards.greenhouse.io/hightouch
+    api: https://boards-api.greenhouse.io/v1/boards/hightouch/jobs
+    notes: "Data activation + AI agents. Remote-friendly."
+    enabled: true
+
+  # ================================================================
+  # ENTERPRISE AI PRODUCT COMPANIES (IBM, NVIDIA, etc.)
+  # ================================================================
+
+  - name: IBM (watsonx)
+    careers_url: https://www.ibm.com/careers/search
+    scan_method: websearch
+    scan_query: 'site:ibm.com/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "watsonx" engineer India Chennai OR Bangalore OR Hyderabad OR remote'
+    notes: "IBM watsonx — enterprise AI/LLM platform. Strong India R&D presence (IBM Research India, Bangalore). AI Engineer + Research roles."
+    enabled: true
+
+  - name: NVIDIA
+    careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    scan_method: websearch
+    scan_query: 'site:nvidia.com/en-us/about-nvidia/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "deep learning" engineer India OR remote'
+    notes: "NVIDIA India (Pune/Bangalore). GPU AI stack, CUDA, NIM microservices, healthcare AI (Clara). Top-tier comp."
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    notes: "Data + AI platform (Delta Lake, MLflow, DBRX). India office (Bangalore). Strong ML/AI engineering roles."
+    enabled: true
+
+  - name: Palantir
+    careers_url: https://jobs.lever.co/palantir
+    notes: "AI platform for enterprise/government. AIP (AI Platform) is their LLM product. Selective hiring, strong AI engineering."
+    enabled: true
+
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    notes: "Data labeling + AI evaluation platform. AI/ML engineer roles. Remote-friendly."
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://careers.snowflake.com
+    scan_method: websearch
+    scan_query: 'site:careers.snowflake.com "AI" OR "ML" OR "LLM" OR "Cortex" engineer India OR remote'
+    notes: "Snowflake Cortex — AI/LLM features on their data cloud. India office (Bangalore)."
+    enabled: true
+
+  - name: C3.ai
+    careers_url: https://job-boards.greenhouse.io/c3aijobs
+    api: https://boards-api.greenhouse.io/v1/boards/c3aijobs/jobs
+    notes: "Enterprise AI applications — predictive maintenance, fraud, healthcare. AI engineer roles."
+    enabled: true
+
+  - name: DataRobot
+    careers_url: https://www.datarobot.com/careers/
+    scan_method: websearch
+    scan_query: 'site:datarobot.com/careers "AI" OR "ML" OR "NLP" OR "LLM" engineer remote OR India'
+    notes: "AI/AutoML platform for enterprises. Remote-friendly hiring."
+    enabled: true
+
+  # ================================================================
+  # HEALTHCARE ENTERPRISE (Medical Device + EHR AI)
+  # ================================================================
+
+  - name: Siemens Healthineers
+    careers_url: https://jobs.siemens-healthineers.com
+    scan_method: websearch
+    scan_query: 'site:jobs.siemens-healthineers.com "AI" OR "ML" OR "deep learning" OR "NLP" engineer India OR remote'
+    notes: "Medical imaging AI (AI-Rad Companion), diagnostics. India R&D center (Bangalore). Strong AI/ML engineering."
+    enabled: true
+
+  - name: GE HealthCare
+    careers_url: https://careers.gehealthcare.com
+    scan_method: websearch
+    scan_query: 'site:careers.gehealthcare.com "AI" OR "ML" OR "deep learning" OR "NLP" engineer India OR remote'
+    notes: "Medical imaging AI, patient monitoring, clinical AI. Large India R&D (Bangalore). Spun off from GE 2023."
+    enabled: true
+
+  - name: Philips Healthcare
+    careers_url: https://www.careers.philips.com
+    scan_method: websearch
+    scan_query: 'site:careers.philips.com "AI" OR "ML" OR "NLP" OR "deep learning" engineer India OR remote healthcare'
+    notes: "Health informatics, imaging AI, patient monitoring AI. India R&D (Bangalore). HealthSuite AI platform."
+    enabled: true
+
+  - name: Oracle Health (Cerner)
+    careers_url: https://www.oracle.com/in/careers/
+    scan_method: websearch
+    scan_query: 'site:oracle.com/in/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "clinical" engineer India OR remote'
+    notes: "Oracle Health = Cerner EHR + Oracle AI. Large India presence. AI/ML roles in clinical data."
+    enabled: true
+
+  - name: Optum (UnitedHealth Group)
+    careers_url: https://careers.unitedhealthgroup.com
+    scan_method: websearch
+    scan_query: 'site:careers.unitedhealthgroup.com "AI" OR "ML" OR "NLP" OR "LLM" OR "clinical" engineer India OR remote'
+    notes: "Optum = UHG's health services + tech arm. Huge India R&D. Clinical AI, NLP on medical records."
+    enabled: true
+
+  # ================================================================
+  # CHIP / HARDWARE AI (NVIDIA-adjacent — good for ML infra roles)
+  # ================================================================
+
+  - name: Intel (AI Division)
+    careers_url: https://www.intel.com/content/www/us/en/jobs/locations/india.html
+    scan_method: websearch
+    scan_query: 'site:intel.com/content/www/us/en/jobs "AI" OR "ML" OR "deep learning" OR "NLP" engineer India'
+    notes: "Intel Labs AI, Gaudi AI accelerators. Large India engineering (Bangalore/Hyderabad). AI/ML engineer roles."
+    enabled: true
+
+  - name: Qualcomm (AI Research)
+    careers_url: https://careers.qualcomm.com
+    scan_method: websearch
+    scan_query: 'site:careers.qualcomm.com "AI" OR "ML" OR "NLP" OR "LLM" OR "on-device AI" engineer India'
+    notes: "On-device AI, edge ML, AI Research India (Bangalore/Hyderabad). Strong ML engineering."
+    enabled: true
+
+  # ================================================================
+  # ANALYTICS / AI CONSULTING PRODUCT FIRMS (India-founded, product-led)
+  # ================================================================
+
+  - name: Fractal Analytics
+    careers_url: https://fractal.ai/careers
+    scan_method: websearch
+    scan_query: 'site:fractal.ai/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "GenAI" engineer India OR remote'
+    notes: "Mumbai India. AI-first analytics product firm (not IT services). Fortune 500 clients. Strong LLM/ML engineering."
+    enabled: true
+
+  - name: Tiger Analytics
+    careers_url: https://www.tigeranalytics.com/careers/
+    scan_method: websearch
+    scan_query: 'site:tigeranalytics.com/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "GenAI" engineer India OR remote'
+    notes: "Chennai India (HQ). AI/ML analytics firm — product-led, not body shop. Note: Chennai location."
+    enabled: true
+
+  - name: Sigmoid
+    careers_url: https://www.sigmoid.com/careers/
+    scan_method: websearch
+    scan_query: 'site:sigmoid.com/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "GenAI" engineer India OR remote'
+    notes: "Bangalore India. Data + AI engineering firm. Product-led, strong ML engineering culture."
+    enabled: true
+
+  # ================================================================
+  # AI-FIRST SAAS STARTUPS (SERIES A–C, REMOTE-FRIENDLY)
+  # ================================================================
+
+  - name: Together AI
+    careers_url: https://job-boards.greenhouse.io/togetherai
+    api: https://boards-api.greenhouse.io/v1/boards/togetherai/jobs
+    notes: "Remote-friendly. LLM inference + fine-tuning platform. Matches LLM pipeline and optimization work."
+    enabled: true
+
+  - name: Fireworks AI
+    careers_url: https://job-boards.greenhouse.io/fireworksai
+    api: https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs
+    notes: "Remote. High-speed GenAI inference (LLM, image, audio). FastAPI + AWS stack match. $4B valuation."
+    enabled: true
+
+  - name: Modal Labs
+    careers_url: https://jobs.ashbyhq.com/modal
+    notes: "Remote globally. Serverless GPU cloud for ML inference. Forward Deployed ML Engineer role matches LangChain + FastAPI profile."
+    enabled: true
+
+  - name: Baseten
+    careers_url: https://jobs.ashbyhq.com/baseten
+    notes: "Remote-first ($1K home office stipend). ML inference infra. Forward Deployed Engineer role. $5B valuation."
+    enabled: true
+
+  - name: Anyscale
+    careers_url: https://jobs.lever.co/anyscale
+    notes: "Ray-based distributed ML compute. Strong platform/MLOps match for scaling LLM workloads on AWS."
+    enabled: true
+
+  - name: Weaviate
+    careers_url: https://weaviate.io/company/careers
+    scan_method: websearch
+    scan_query: '"weaviate" careers "AI" OR "ML" OR "engineer" remote site:weaviate.io'
+    notes: "Fully remote globally. Leading open-source vector database — direct match for RAG pipeline work."
+    enabled: true
+
+  - name: Qdrant
+    careers_url: https://join.com/companies/qdrant
+    scan_method: websearch
+    scan_query: '"qdrant" careers "AI Engineer" OR "ML" OR "engineer" remote'
+    notes: "Remote. Vector search engine for RAG — AI Engineer role requires embeddings, vector search, Hugging Face. Exact stack."
+    enabled: true
+
+  - name: Vectara
+    careers_url: https://www.vectara.com/company/careers-and-culture
+    scan_method: websearch
+    scan_query: '"vectara" careers "engineer" OR "AI" OR "ML" remote'
+    notes: "Remote-first. Enterprise RAG + neural information retrieval platform. Matches clinical NLP and RAG pipeline work."
+    enabled: true
+
+  - name: Credal AI
+    careers_url: https://www.credal.ai/careers
+    scan_method: websearch
+    scan_query: '"credal" careers "AI" OR "engineer" OR "LLM" site:credal.ai OR site:workatastartup.com'
+    notes: "YC-backed. Enterprise AI with security/compliance focus. HIPAA-compliant AI experience is a strong differentiator."
+    enabled: true
+
+  - name: BentoML
+    careers_url: https://www.bentoml.com/careers
+    scan_method: websearch
+    scan_query: '"bentoml" careers "engineer" OR "AI" OR "ML" OR "forward deployed" remote'
+    notes: "Remote. Unified LLM/model deployment platform. Forward Deployed Engineer + Inference Optimization roles match FastAPI + LLM serving."
+    enabled: true
+
+  - name: Groq
+    careers_url: https://groq.com/careers
+    scan_method: websearch
+    scan_query: '"groq" careers "AI" OR "ML" OR "engineer" OR "applications" site:groq.com/careers'
+    notes: "LPU ultra-low-latency LLM inference. AI Applications Engineer roles align with LLM deployment expertise."
+    enabled: true
+
+  - name: Twelve Labs
+    careers_url: https://jobs.ashbyhq.com/twelve-labs
+    notes: "Remote roles exist. Multimodal video understanding models — Applied AI Engineer and ML Engineer roles. Multimodal AI + GPT-4 Vision experience relevant."
+    enabled: true
+
+  # ================================================================
+  # HEALTHCARE AI — ADDITIONAL (GLOBAL)
+  # ================================================================
+
+  - name: Hippocratic AI
+    careers_url: https://jobs.ashbyhq.com/HippocraticAI
+    notes: "Safety-focused LLM for patient interactions. HIPAA-compliant AI system experience is direct differentiator."
+    enabled: true
+
+  - name: Anterior
+    careers_url: https://jobs.ashbyhq.com/anterior
+    notes: "Sequoia-backed ($64M). Clinical AI for health plan prior authorization. Forward Deployed Engineer role on LLM clinical workflows."
+    enabled: true
+
+  - name: Glass Health
+    careers_url: https://jobs.lever.co/glass-health-inc
+    notes: "YC-backed. Clinical decision support platform. Founding AI/Data Engineer role (Applied AI/LLM, product engineering) matches stack."
+    enabled: true
+
+  - name: Corti
+    careers_url: https://www.corti.ai/careers
+    scan_method: websearch
+    scan_query: '"corti" careers "AI" OR "ML" OR "NLP" OR "engineer" clinical documentation site:corti.ai'
+    notes: "Denmark/Remote. Real-time clinical decision support + ambient documentation AI. Matches ScribeX NLP work."
+    enabled: true
+
+  - name: Notable Health
+    careers_url: https://www.notablehealth.com/careers
+    scan_method: websearch
+    scan_query: '"notable health" careers "AI" OR "ML" OR "NLP" OR "engineer" site:notablehealth.com OR site:boards.greenhouse.io'
+    notes: "US/Remote. Ambient AI clinical documentation + workflow automation. Clinical NLP + HIPAA experience directly relevant."
+    enabled: true
+
+  - name: Hippocratic AI
+    careers_url: https://jobs.ashbyhq.com/HippocraticAI
+    notes: "Safety-focused LLM for healthcare. HIPAA-compliant AI system experience is a strong differentiator."
+    enabled: false  # duplicate — listed above, keeping for reference
+
+  - name: Navina AI
+    careers_url: https://www.navina.ai/careers
+    scan_method: websearch
+    scan_query: '"navina" careers "AI" OR "ML" OR "NLP" OR "engineer" site:navina.ai'
+    notes: "Israeli-founded, US-focused. AI clinical copilot for value-based care. NLP for longitudinal patient data."
+    enabled: true
+
+  - name: Doceree
+    careers_url: https://doceree.com/careers/
+    scan_method: websearch
+    scan_query: '"doceree" careers "AI" OR "ML" OR "NLP" OR "engineer" site:doceree.com'
+    notes: "India (Delhi/Mumbai) + US/London. AI-powered HCP targeting in healthcare. Direct India access."
+    enabled: true
+
+  - name: Wolters Kluwer Health
+    careers_url: https://careers.wolterskluwer.com/en
+    scan_method: websearch
+    scan_query: 'site:careers.wolterskluwer.com "AI" OR "ML" OR "NLP" OR "clinical" engineer India OR remote'
+    notes: "Pune India office (65+ India roles). UpToDate + clinical NLP tooling. HIPAA + clinical NLP background is strong fit."
+    enabled: true
+
+  - name: nference
+    careers_url: https://nference.com/careers
+    scan_method: websearch
+    scan_query: '"nference" careers "AI" OR "ML" OR "NLP" OR "engineer" site:nference.com OR site:linkedin.com'
+    notes: "Bangalore India + Cambridge MA + Toronto. Agentic AI for healthcare research — multimodal clinical data (EHR, imaging, genomics). Top India healthtech target."
+    enabled: true
+
+  - name: Recursion Pharmaceuticals
+    careers_url: https://job-boards.greenhouse.io/recursionpharmaceuticals
+    api: https://boards-api.greenhouse.io/v1/boards/recursionpharmaceuticals/jobs
+    notes: "TechBio — AI for drug discovery with multimodal biological data. ML researcher/engineer roles."
+    enabled: true
+
+  - name: Datavant
+    careers_url: https://www.datavant.com/about/careers
+    scan_method: websearch
+    scan_query: '"datavant" careers "AI" OR "ML" OR "NLP" OR "engineer" site:datavant.com'
+    notes: "Healthcare data collaboration + de-identification. HIPAA-compliant data engineering is a direct match."
+    enabled: true
+
+  # ================================================================
+  # INDIAN PRODUCT COMPANIES WITH STRONG AI TEAMS
+  # ================================================================
+
+  - name: Freshworks (Freddy AI)
+    careers_url: https://careers.smartrecruiters.com/freshworks
+    scan_method: websearch
+    scan_query: 'site:careers.smartrecruiters.com/freshworks "AI" OR "ML" OR "LLM" OR "NLP" OR "LangChain" engineer'
+    notes: "Chennai HQ. Freddy AI + agentic AI. Confirmed live JD requires LangChain, LangGraph, RAG. Strong stack match — note Chennai location."
+    enabled: true
+
+  - name: Zoho (Zia AI)
+    careers_url: https://careers.zohocorp.com/jobs/careers
+    scan_method: websearch
+    scan_query: 'site:careers.zohocorp.com "AI" OR "ML" OR "NLP" OR "LLM" OR "Zia" engineer Chennai OR Bangalore'
+    notes: "Chennai HQ. Zia AI across 50+ Zoho products. ML Engineer roles in Chennai — ideal location."
+    enabled: true
+
+  - name: Razorpay
+    careers_url: https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited
+    api: https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs
+    notes: "Bangalore. India-native fintech product company. ML for fraud detection, payments intelligence."
+    enabled: true
+
+  - name: Groww
+    careers_url: https://job-boards.eu.greenhouse.io/groww
+    scan_method: websearch
+    scan_query: 'site:job-boards.eu.greenhouse.io/groww "AI" OR "ML" OR "LLM" OR "GenAI" engineer'
+    notes: "Bangalore. ML Engineer IV role confirmed — GenAI applications, LLMs, Python, TensorFlow. Series E unicorn."
+    enabled: true
+
+  - name: PhonePe
+    careers_url: https://job-boards.greenhouse.io/phonepe
+    api: https://boards-api.greenhouse.io/v1/boards/phonepe/jobs
+    notes: "Bangalore. Walmart-backed. MLOps + ML engineer hiring for payments fraud and credit ML."
+    enabled: true
+
+  - name: CRED
+    careers_url: https://jobs.ashbyhq.com/Cred%20Platform
+    notes: "Bangalore. India-native fintech. AI-native intelligence platform. Data Engineer / AI roles on Ashby."
+    enabled: true
+
+  - name: Meesho
+    careers_url: https://www.meesho.io/jobs
+    scan_method: websearch
+    scan_query: '"meesho" careers "AI" OR "ML" OR "NLP" OR "GenAI" OR "LLM" engineer site:meesho.io OR site:cutshort.io OR site:peerlist.io'
+    notes: "Bangalore. India e-commerce unicorn. GenAI-powered seller tools + recommender systems. Active ML team."
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://www.zepto.com/s/careers
+    scan_method: websearch
+    scan_query: '"zepto" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer site:zepto.com OR site:cutshort.io OR site:instahyre.com'
+    notes: "Mumbai/Bangalore. Quick commerce unicorn. ML for demand forecasting, logistics, search ranking."
+    enabled: true
+
+  - name: Leena AI
+    careers_url: https://leena.ai/careers
+    scan_method: websearch
+    scan_query: '"leena ai" careers "AI" OR "ML" OR "NLP" OR "LLM" OR "RAG" engineer site:leena.ai OR site:cutshort.io OR site:wellfound.com'
+    notes: "Gurugram + remote. Agentic AI enterprise assistant on WorkLM. Active LLM/RAG engineering hiring."
+    enabled: true
+
+  - name: Perfios
+    careers_url: https://perfios.ai/careers/
+    scan_method: websearch
+    scan_query: '"perfios" careers "AI" OR "ML" OR "NLP" OR "LLM" OR "document" engineer site:perfios.ai OR site:cutshort.io'
+    notes: "Bangalore. B2B fintech AI — credit underwriting, document intelligence. AWS Textract experience directly relevant."
+    enabled: true
+
+  - name: Whatfix
+    careers_url: https://www.whatfix.com/careers/
+    scan_method: websearch
+    scan_query: '"whatfix" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer site:whatfix.com OR site:cutshort.io OR site:instahyre.com'
+    notes: "Bangalore. Digital adoption platform with AI capabilities. NLP for content intelligence + user behavior."
+    enabled: true
+
+  - name: Darwinbox
+    careers_url: https://darwinbox.com/about-us/careers
+    scan_method: websearch
+    scan_query: '"darwinbox" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer site:darwinbox.com OR site:cutshort.io OR site:naukri.com'
+    notes: "Hyderabad. AI-powered HCM SaaS. NLP for performance reviews, policy bots, conversational HR."
+    enabled: true
+
+  - name: CleverTap
+    careers_url: https://clevertap.com/careers/
+    scan_method: websearch
+    scan_query: '"clevertap" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer site:clevertap.com OR site:cutshort.io'
+    notes: "Mumbai. Martech AI — user segmentation, retention prediction, behavioral analytics ML."
+    enabled: true
+
+  - name: MoEngage
+    careers_url: https://www.moengage.com/careers/
+    scan_method: websearch
+    scan_query: '"moengage" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer site:moengage.com OR site:cutshort.io OR site:instahyre.com'
+    notes: "Bangalore. AI-driven customer engagement — predictive segmentation, send-time optimization, NLP content."
+    enabled: true
+
+  # ================================================================
+  # GLOBAL FINTECH / INSURTECH WITH SERIOUS AI TEAMS
+  # ================================================================
+
+  - name: Stripe (ML)
+    careers_url: https://stripe.com/jobs/search
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs "AI" OR "ML" OR "machine learning" OR "NLP" OR "LLM" engineer remote OR India'
+    notes: "Remote worldwide ML roles confirmed. ML for fraud detection, payments risk at massive scale. Python/ML/AWS stack match."
+    enabled: true
+
+  - name: Plaid
+    careers_url: https://jobs.lever.co/plaid
+    notes: "Remote-supportive. Senior ML Engineer (Payments & Fraud) — NLP, anomaly detection, time series. Active Lever board."
+    enabled: true
+
+  - name: Mastercard (AI Center)
+    careers_url: https://careers.mastercard.com
+    scan_method: websearch
+    scan_query: 'site:careers.mastercard.com "AI" OR "ML" OR "NLP" OR "LLM" engineer India OR remote'
+    notes: "India offices. Mastercard AI for fraud, cybersecurity, real-time decisioning. Large ML team."
+    enabled: true
+
+  - name: PayPal (AI)
+    careers_url: https://careers.pypl.com/home/
+    scan_method: websearch
+    scan_query: 'site:careers.pypl.com "AI" OR "ML" OR "NLP" OR "LLM" OR "conversational" engineer India Chennai OR Bangalore'
+    notes: "Chennai + Bangalore India offices. Risk ML, fraud detection, conversational AI. Well-resourced ML team."
+    enabled: true
+
+  - name: Zeta Tech
+    careers_url: https://careers.zeta.tech/
+    scan_method: websearch
+    scan_query: '"zeta tech" OR "zeta.tech" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer India'
+    notes: "Bangalore + global. India-native B2B banking platform. Cloud-native credit card processing with ML. 70% tech team."
+    enabled: true
+
+  - name: Setu (Pine Labs)
+    careers_url: https://setu.co/careers/
+    scan_method: websearch
+    scan_query: '"setu" careers "AI" OR "ML" OR "NLP" OR "document" engineer site:setu.co OR site:cutshort.io'
+    notes: "Bangalore. India fintech infra (payments, data APIs). AWS Textract experience relevant for document intelligence work."
+    enabled: true
+
+  # ================================================================
+  # ENTERPRISE SOFTWARE WITH HEAVY AI INVESTMENT
+  # ================================================================
+
+  - name: ServiceNow (Now AI)
+    careers_url: https://careers.servicenow.com/
+    scan_method: websearch
+    scan_query: 'site:careers.servicenow.com "AI" OR "ML" OR "LLM" OR "LangChain" OR "LangGraph" engineer India Hyderabad OR Bangalore'
+    notes: "Hyderabad India (second largest global base). Staff ML Engineer role confirmed — requires LangChain, LangGraph, LLM apps. Exact stack match."
+    enabled: true
+
+  - name: Salesforce (Agentforce)
+    careers_url: https://careers.salesforce.com/en/
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com "AI" OR "ML" OR "NLP" OR "Agentforce" OR "Einstein" engineer India Bangalore OR Hyderabad'
+    notes: "Bangalore + Hyderabad India offices. Agentforce, Einstein GPT, Data Cloud. Large India AI team."
+    enabled: true
+
+  - name: Atlassian (Rovo AI)
+    careers_url: https://www.atlassian.com/company/careers/all-jobs
+    scan_method: websearch
+    scan_query: 'site:atlassian.com/company/careers "AI" OR "ML" OR "LLM" OR "RAG" OR "LangChain" engineer India Bangalore'
+    notes: "Bangalore office (318+ India roles). ML Engineer I confirmed — requires LLM/RAG/LangChain familiarity. Direct stack match."
+    enabled: true
+
+  - name: Adobe (Firefly AI)
+    careers_url: https://careers.adobe.com/
+    scan_method: websearch
+    scan_query: 'site:careers.adobe.com "AI" OR "ML" OR "LLM" OR "multimodal" OR "GenAI" engineer India Noida OR Bangalore'
+    notes: "Noida + Bangalore India offices. Adobe Firefly GenAI, AI creative tools. Multimodal AI experience relevant."
+    enabled: true
+
+  - name: HubSpot (Breeze AI)
+    careers_url: https://www.hubspot.com/careers/jobs/all
+    scan_method: websearch
+    scan_query: 'site:hubspot.com/careers "AI" OR "ML" OR "NLP" OR "LLM" OR "Breeze" engineer remote OR India'
+    notes: "72% employees remote. 200+ AI products launched (Breeze Agents). ML/NLP for CRM AI agents. Remote-first = India viable."
+    enabled: true
+
+  # ================================================================
+  # AI RESEARCH LABS
+  # ================================================================
+
+  - name: Allen Institute for AI (AI2)
+    careers_url: https://job-boards.greenhouse.io/thealleninstitute
+    api: https://boards-api.greenhouse.io/v1/boards/thealleninstitute/jobs
+    notes: "Seattle/Remote. Leading NLP research lab (OLMo, AllenNLP, Semantic Scholar). Research-adjacent roles."
+    enabled: true
+
+  - name: MBZUAI
+    careers_url: https://careers.mbzuai.ac.ae/careers/ai-nlp-engineer/
+    scan_method: websearch
+    scan_query: '"MBZUAI" careers "AI" OR "NLP" OR "ML" OR "engineer" site:mbzuai.ac.ae OR site:linkedin.com'
+    notes: "Abu Dhabi UAE. Active AI/NLP Engineer posting. Tax-free, large Indian expat community. India-to-UAE common path."
+    enabled: true
+
+  - name: AI4Bharat (IIT Madras)
+    careers_url: https://ai4bharat.iitm.ac.in/careers
+    scan_method: websearch
+    scan_query: '"ai4bharat" OR "AI4Bharat" careers "engineer" OR "researcher" OR "NLP" OR "AI" site:ai4bharat.iitm.ac.in OR site:iitm.ac.in'
+    notes: "Chennai, IIT Madras campus. Open-source NLP for Indian languages (IndicTrans, Saaras). Note: Chennai location."
+    enabled: true
+
+  - name: Microsoft Research India
+    careers_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/opportunities/
+    scan_method: websearch
+    scan_query: '"Microsoft Research India" careers "RSDE" OR "researcher" OR "AI" OR "ML" OR "NLP" Bangalore'
+    notes: "Bangalore. World-class AI research — RSDE and ML researcher roles. Strong NLP and healthcare AI publishing environment."
+    enabled: true
+
+  - name: TII UAE (Falcon LLM)
+    careers_url: https://www.tii.ae/careers
+    scan_method: websearch
+    scan_query: '"TII" OR "Technology Innovation Institute" careers "AI" OR "LLM" OR "NLP" OR "engineer" OR "researcher" Abu Dhabi'
+    notes: "Abu Dhabi UAE. Falcon LLM team (one of world's top open-source LLMs). LLM/NLP research engineer roles."
+    enabled: true
+
+  # ================================================================
+  # MLOPS / AI INFRASTRUCTURE
+  # ================================================================
+
+  - name: Fiddler AI
+    careers_url: https://www.fiddler.ai/careers
+    scan_method: websearch
+    scan_query: '"fiddler ai" OR "fiddler.ai" careers "AI" OR "ML" OR "engineer" site:fiddler.ai OR site:boards.greenhouse.io'
+    notes: "AI observability + model monitoring. HIPAA-compliant AI monitoring experience is a differentiator."
+    enabled: true
+
+  - name: Cleanlab
+    careers_url: https://cleanlab.ai/careers/
+    scan_method: websearch
+    scan_query: '"cleanlab" careers "AI" OR "ML" OR "engineer" OR "data" remote site:cleanlab.ai'
+    notes: "Remote-first. AI data quality platform. ML platform engineering roles match Python/ML background."
+    enabled: true
+
+  - name: Roboflow
+    careers_url: https://roboflow.com/careers
+    scan_method: websearch
+    scan_query: '"roboflow" careers "AI" OR "ML" OR "CV" OR "engineer" remote site:roboflow.com'
+    notes: "Remote (13+ remote positions). Computer vision platform. Relevant given facial emotion detection + GPT-4 Vision experience."
+    enabled: true
+
+  - name: Encord
+    careers_url: https://encord.com/careers/
+    scan_method: websearch
+    scan_query: '"encord" careers "AI" OR "ML" OR "engineer" OR "medical" imaging remote site:encord.com OR site:jobs.ashbyhq.com'
+    notes: "UK/Remote. Multimodal AI data annotation — medical imaging annotation relevant to clinical AI background."
+    enabled: true
+
+  - name: Evidently AI
+    careers_url: https://www.evidentlyai.com/careers
+    scan_method: websearch
+    scan_query: '"evidently ai" OR "evidentlyai" careers "AI" OR "ML" OR "engineer" remote site:evidentlyai.com'
+    notes: "Remote-first. ML model monitoring and observability open-source tool. Production ML monitoring experience relevant."
+    enabled: true
+
+  # ================================================================
+  # REMOTE-FIRST COMPANIES THAT HIRE FROM INDIA
+  # ================================================================
+
+  - name: GitLab (AI Engineering)
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    notes: "World's largest all-remote company (65+ countries). Building GitLab Duo AI (code review, summarization, pipelines). 3,000+ India employees."
+    enabled: true
+
+  - name: Automattic (WordPress.com)
+    careers_url: https://automattic.com/work-with-us/
+    scan_method: websearch
+    scan_query: '"automattic" careers "AI" OR "ML" OR "NLP" OR "LLM" engineer remote site:automattic.com'
+    notes: "100% distributed globally, hires from India. Jetpack AI + content intelligence. ML/NLP engineering roles."
+    enabled: true

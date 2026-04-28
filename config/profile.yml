@@ -1,0 +1,96 @@
+# Career-Ops Profile Configuration
+
+candidate:
+  full_name: "Jayavardhan Kolla"
+  email: "kollajayavardhan31@gmail.com"
+  phone: "+91 8123099199"
+  location: "Chennai, Tamil Nadu, India"
+  linkedin: "linkedin.com/in/Jayavardhan"
+  github: "github.com/Jayavardhan"
+  portfolio_url: "https://jayavardhankolla.dev"
+  twitter: ""
+
+target_roles:
+  primary:
+    - "AI Engineer"
+    - "Applied AI Engineer"
+    - "GenAI Engineer"
+    - "Healthcare AI Engineer"
+    - "LLM Engineer"
+  secondary:
+    - "ML Engineer"
+    - "NLP Engineer"
+    - "AI Software Engineer"
+    - "Agentic AI Engineer"
+    - "AI Data Scientist"
+  archetypes:
+    - name: "Applied AI / GenAI Engineer"
+      level: "Junior-Mid"
+      fit: "primary"        # Core strength — LangGraph, RAG, FastAPI in production
+    - name: "Healthcare AI Engineer"
+      level: "Junior-Mid"
+      fit: "primary"        # Proven vertical — HIPAA, EHR, clinical NLP
+    - name: "LLM / Agentic Engineer"
+      level: "Junior-Mid"
+      fit: "primary"        # LangGraph multi-agent, orchestration, guardrails
+    - name: "NLP / ML Engineer"
+      level: "Junior-Mid"
+      fit: "secondary"      # Ambient NLP, model training, OpenCV pipelines
+    - name: "AI-focused Data Scientist"
+      level: "Junior-Mid"
+      fit: "secondary"      # ML/DL skills, but only target AI-first DS roles
+    - name: "AI Solutions Engineer"
+      level: "Junior-Mid"
+      fit: "adjacent"       # Client-facing, integration-heavy — stretch role
+
+narrative:
+  headline: "Applied AI Engineer shipping production LLM systems in healthcare — LangGraph, RAG, FastAPI, AWS"
+  exit_story: "Joined Value Health straight out of university and shipped three production AI systems: a multi-source RAG assistant (Vassist), an ambient clinical NLP pipeline (ScribeX) that cut documentation time by 70%, and a diagnostic validation tool processing 30,000+ reports at 98% rule adherence. All HIPAA-compliant, all in production."
+  superpowers:
+    - "Multi-source RAG with LangGraph (docs, audio/video, Salesforce, DB in one pipeline)"
+    - "Clinical-grade AI — HIPAA compliance, EHR integration, 92% NLP accuracy at scale"
+    - "AWS AI stack in production — Bedrock, Textract, Transcribe"
+    - "FastAPI AI services with voice interaction and LLM guardrails"
+    - "Fine-tuning and deploying open-source LLMs (MixTral 8x7b, Gemma 2B)"
+  proof_points:
+    - name: "ScribeX AI — Ambient Clinical NLP"
+      url: ""
+      hero_metric: "70% reduction in clinician documentation time; 4× fewer reimbursement errors; 92% NLP accuracy; 100% HIPAA compliant"
+    - name: "Vassist — Multi-source RAG Assistant"
+      url: ""
+      hero_metric: "Single LangGraph pipeline unifying documents, audio/video, Salesforce, and databases with voice interaction"
+    - name: "Quality Tool for DVF"
+      url: ""
+      hero_metric: "30,000+ diagnostic reports analyzed; 98% rule adherence; 30% faster reviews; co-designed with 20+ radiologists"
+    - name: "AI Cricket Commentary"
+      url: ""
+      hero_metric: "GPT-4 Vision + voice cloning (Zonos) + multilingual translation — 80%+ accuracy end-to-end"
+
+compensation:
+  # India roles
+  target_range_india: "16-18 LPA"
+  minimum_india: "14 LPA"
+  currency_india: "INR"
+  # International remote roles
+  target_range_usd: "$55K-80K"
+  minimum_usd: "$45K"
+  currency_international: "USD"
+  location_flexibility: "Open to remote-first globally; willing to relocate to Bangalore or Hyderabad"
+
+location:
+  country: "India"
+  city: "Coimbatore (willing to relocate to Bangalore or Hyderabad)"
+  timezone: "IST (UTC+5:30)"
+  visa_status: "Indian citizen — open to international roles with sponsorship"
+  onsite_availability: "Bangalore or Hyderabad preferred for relocation; remote from Coimbatore also fine"
+
+deal_breakers:
+  - "Bond or service agreement of any kind"
+
+industry_preferences:
+  primary: "Healthcare AI, HealthTech, MedTech, Clinical AI"
+  open_to: "Any AI-first company — AI SaaS, LLM tooling, AI platforms, fintech AI, edtech AI, enterprise AI"
+  deprioritize: "Traditional data science without AI/LLM component; pure analytics roles; non-AI engineering"
+
+cv:
+  output_format: "html"

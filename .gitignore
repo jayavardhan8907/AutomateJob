@@ -1,8 +1,6 @@
-# Personal data (user fills these)
+# Personal data — keep private, never commit
 cv.md
 data/applications.md
-data/pipeline.md
-data/scan-history.tsv
 reports/*.md
 !reports/.gitkeep
 output/*
@@ -16,15 +14,19 @@ batch/tracker-additions/**/*.tsv
 jds/*
 !jds/.gitkeep
 
-# User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# Scan data — tracked so GitHub Actions can commit results back
+# data/pipeline.md      → unblocked (needed for cloud scan)
+# data/scan-history.tsv → unblocked (needed for dedup)
+
+# User config — committed to private repo for cloud access
+# portals.yml           → unblocked (needed by scan.mjs)
+# config/profile.yml    → unblocked (needed for evaluation)
+# modes/_profile.md     → unblocked (needed for evaluation)
+
+# Secrets
+.env
 .update-dismissed
 .update-lock
-
-# Secrets (never commit — use .env.example as template)
-.env
 
 # Generated
 .resolved-prompt-*
