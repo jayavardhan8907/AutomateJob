@@ -25,6 +25,22 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install chromium --with-deps
 
+      - name: Bootstrap scan data files
+        run: |
+          mkdir -p data
+          if [ ! -f data/pipeline.md ]; then
+            cat <<'EOF' > data/pipeline.md
+          # Pipeline
+
+          ## Pendientes
+
+          ## Procesadas
+          EOF
+          fi
+          if [ ! -f data/scan-history.tsv ]; then
+            echo -e "url\tfirst_seen\tportal\ttitle\tcompany\tstatus" > data/scan-history.tsv
+          fi
+
       - name: Run scanner
         run: node scan.mjs
 
