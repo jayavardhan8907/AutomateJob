@@ -20,12 +20,7 @@ jobs:
           package-manager-cache: false
 
       - name: Install dependencies
-        run: |
-          if [ -f package-lock.json ]; then
-            npm ci
-          else
-            npm install
-          fi
+        run: npm install
 
       - name: Install Playwright Chromium
         run: npx playwright install chromium --with-deps
