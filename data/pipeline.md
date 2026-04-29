@@ -302,4 +302,9 @@
 - [ ] https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra AI | Software Engineer, Agent
 - [ ] https://jobs.ashbyhq.com/sierra/757f6d53-8849-46b5-b23e-184753c05e62 | Sierra AI | Strategist, Agent Development
 
+- [ ] https://jobs.ashbyhq.com/sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23 | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/99e82c10-977f-4b42-a737-2d9812ce614d | Sierra AI | Strategist, Agent Development
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://job-boards.greenhouse.io/phonepe/jobs/7701490003 | PhonePe | Data Scientist - 3 to 5 years
+
 ## Procesadas
