@@ -289,4 +289,12 @@
 - [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate
 - [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4968059008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c | Sierra AI | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/08d96098-7213-44af-98da-f62366189f3b | Sierra AI | Strategist, Agent Development
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/baseten/9a0e1cdb-f2f7-4998-be7b-18083c05e71a | Baseten | Software Engineer - Voice Agent
+
 ## Procesadas
