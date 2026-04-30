@@ -318,4 +318,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18 | Sierra AI | Software Engineer, Agent
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+
 ## Procesadas
