@@ -314,4 +314,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra AI | Software Engineer, Agent
 - [ ] https://jobs.lever.co/plaid/47fc7fed-2577-4c3a-a32a-b4b434b47bbb | Plaid | Senior Data Scientist - Credit
 
+- [ ] https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d | Sierra AI | Software Engineer, Agent
+
 ## Procesadas
