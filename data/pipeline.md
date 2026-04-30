@@ -311,4 +311,7 @@
 - [ ] https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c | Sierra AI | Software Engineer, Agent
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.lever.co/plaid/47fc7fed-2577-4c3a-a32a-b4b434b47bbb | Plaid | Senior Data Scientist - Credit
+
 ## Procesadas
