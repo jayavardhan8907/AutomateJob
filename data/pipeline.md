@@ -320,4 +320,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
 
+- [ ] https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86 | Cohere | Engineering Manager, Agentic Platform 
+
 ## Procesadas
