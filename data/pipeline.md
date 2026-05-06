@@ -322,4 +322,6 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86 | Cohere | Engineering Manager, Agentic Platform 
 
+- [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra AI | Agent Experience Designer, Voice (Multilingual)
+
 ## Procesadas
