@@ -328,4 +328,6 @@
 - [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
 - [ ] https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4692201005 | Scale AI | Technical Program Manager (Computer Vision), Public Sector
+
 ## Procesadas
