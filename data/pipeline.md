@@ -324,4 +324,8 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra AI | Agent Experience Designer, Voice (Multilingual)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5197529008 | Anthropic | Data Scientist, Developer Productivity
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
+- [ ] https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi
+
 ## Procesadas
