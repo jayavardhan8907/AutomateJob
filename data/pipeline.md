@@ -333,4 +333,10 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7742203 | Intercom | Principal Engineer, Fin AI Agent
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7825825 | Intercom | Senior Engineering Manager, Fin AI Agent
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5182605008 | Anthropic | Data Scientist, Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5212119008 | Anthropic | Data Scientist, Supply
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7725840 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7825844 | Intercom | Senior Engineering Manager, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8537853002 | GitLab (AI Engineering) | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity
+
 ## Procesadas
