@@ -330,4 +330,7 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4692201005 | Scale AI | Technical Program Manager (Computer Vision), Public Sector
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7742203 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7825825 | Intercom | Senior Engineering Manager, Fin AI Agent
+
 ## Procesadas
