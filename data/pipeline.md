@@ -339,4 +339,7 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7825844 | Intercom | Senior Engineering Manager, Fin AI Agent
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8537853002 | GitLab (AI Engineering) | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002 | Databricks | Senior Staff Applied AI Engineer - Context Retrieval
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8536109002 | GitLab (AI Engineering) | Staff Product Manager, AI Agent Orchestration
+
 ## Procesadas
