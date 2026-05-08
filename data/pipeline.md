@@ -342,4 +342,7 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002 | Databricks | Senior Staff Applied AI Engineer - Context Retrieval
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8536109002 | GitLab (AI Engineering) | Staff Product Manager, AI Agent Orchestration
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540516002 | Databricks | Senior GenAI Research Scientist - AI Efficiency & Optimization
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7642856002 | Databricks | Staff GenAI Research Scientist - Retrieval
+
 ## Procesadas
