@@ -345,4 +345,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540516002 | Databricks | Senior GenAI Research Scientist - AI Efficiency & Optimization
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7642856002 | Databricks | Staff GenAI Research Scientist - Retrieval
 
+- [ ] https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e | Baseten | Engineering Manager - Forward Deployed Engineering (LLM)
+
 ## Procesadas
