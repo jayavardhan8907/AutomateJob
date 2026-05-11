@@ -347,4 +347,6 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e | Baseten | Engineering Manager - Forward Deployed Engineering (LLM)
 
+- [ ] https://jobs.ashbyhq.com/baseten/54c83823-574e-40ad-9cff-a57acff0ffe6 | Baseten | Solution Architect (AI/LLM Inference)
+
 ## Procesadas
