@@ -349,4 +349,6 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/54c83823-574e-40ad-9cff-a57acff0ffe6 | Baseten | Solution Architect (AI/LLM Inference)
 
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)
+
 ## Procesadas
