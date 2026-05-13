@@ -351,4 +351,8 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694761005 | Glean | Product Manager, Agent Security & Governance
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694771005 | Glean | Tech Lead Manager, Agentic Runtime 
+
 ## Procesadas
