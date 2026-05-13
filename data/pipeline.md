@@ -355,4 +355,6 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694761005 | Glean | Product Manager, Agent Security & Governance
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694771005 | Glean | Tech Lead Manager, Agentic Runtime 
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
