@@ -359,4 +359,7 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4695266005 | Scale AI | Strategic Projects Lead, Generative AI
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002 | Databricks | Staff Software Engineer - Agent Quality
+
 ## Procesadas
