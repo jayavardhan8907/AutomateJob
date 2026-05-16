@@ -362,4 +362,9 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002 | Databricks | Staff Software Engineer - Agent Quality
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694861005 | Scale AI | Forward Deployed AI Engineer, Enterprise 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694863005 | Scale AI | Senior Forward Deployed AI Engineer, Enterprise 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 | Scale AI | Senior Staff Forward Deployed AI Engineer, Enterprise 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694865005 | Scale AI | Staff Forward Deployed AI Engineer, Enterprise 
+
 ## Procesadas
