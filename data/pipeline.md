@@ -369,4 +369,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204086008 | Anthropic | [P] [Zurich] Solutions Architect, Applied AI
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/56d12488-ace7-4f7c-a156-6ca477014296 | Twelve Labs | Staff Machine Learning Engineer, Pegasus - TrainingOps
+
 ## Procesadas
