@@ -367,4 +367,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 | Scale AI | Senior Staff Forward Deployed AI Engineer, Enterprise 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694865005 | Scale AI | Staff Forward Deployed AI Engineer, Enterprise 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204086008 | Anthropic | [P] [Zurich] Solutions Architect, Applied AI
+
 ## Procesadas
