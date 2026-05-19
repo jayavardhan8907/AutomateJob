@@ -373,4 +373,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222289008 | Anthropic | Manager of Solutions Architecture, Applied AI (Enterprise Tech)
 
+- [ ] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra AI | Strategist, Agent Development (Cantonese Speaking)
+
 ## Procesadas
