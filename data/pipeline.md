@@ -371,4 +371,6 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/56d12488-ace7-4f7c-a156-6ca477014296 | Twelve Labs | Staff Machine Learning Engineer, Pegasus - TrainingOps
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222289008 | Anthropic | Manager of Solutions Architecture, Applied AI (Enterprise Tech)
+
 ## Procesadas
