@@ -375,4 +375,7 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra AI | Strategist, Agent Development (Cantonese Speaking)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161728008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+
 ## Procesadas
