@@ -381,4 +381,6 @@
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5140763007 | Together AI | Staff Machine Learning Engineer, Voice AI 
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5142176007 | Together AI | Staff Platform Engineer, Voice AI
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8551533002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
