@@ -386,4 +386,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5226862008 | Anthropic | Applied AI Architect, Applied AI (Digital Natives Business)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560407002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560393002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
