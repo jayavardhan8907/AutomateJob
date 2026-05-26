@@ -393,4 +393,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116820008 | Anthropic | Data Scientist, Platform Product
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab (AI Engineering) | Senior AI Engineer
+
 ## Procesadas
