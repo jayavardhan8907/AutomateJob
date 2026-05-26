@@ -395,4 +395,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab (AI Engineering) | Senior AI Engineer
 
+- [ ] https://job-boards.eu.greenhouse.io/groww/jobs/4743478101 | Groww | AI Engineer - II
+
 ## Procesadas
