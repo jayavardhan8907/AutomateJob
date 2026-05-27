@@ -397,4 +397,7 @@
 
 - [ ] https://job-boards.eu.greenhouse.io/groww/jobs/4743478101 | Groww | AI Engineer - II
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222908008 | Anthropic | Partner Solutions Architect, Applied AI
+
 ## Procesadas
