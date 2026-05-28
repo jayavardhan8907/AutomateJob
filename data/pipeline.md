@@ -400,4 +400,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222908008 | Anthropic | Partner Solutions Architect, Applied AI
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002 | Databricks | Senior Data Scientist 
+
 ## Procesadas
