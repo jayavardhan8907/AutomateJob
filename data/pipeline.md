@@ -402,4 +402,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5634684002 | Databricks | Senior Data Scientist 
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab (AI Engineering) | AI Engineer
+
 ## Procesadas
