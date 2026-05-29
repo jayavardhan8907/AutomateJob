@@ -404,4 +404,7 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab (AI Engineering) | AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961540 | Recursion Pharmaceuticals | Engineering Manager - Machine Learning
+- [ ] https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA
+
 ## Procesadas
