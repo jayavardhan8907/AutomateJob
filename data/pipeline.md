@@ -411,4 +411,6 @@
 
 - [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961536 | Recursion Pharmaceuticals | Engineering Manager - Machine Learning
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196852008 | Anthropic | Data Scientist, GTM
+
 ## Procesadas
