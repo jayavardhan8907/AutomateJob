@@ -413,4 +413,8 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196852008 | Anthropic | Data Scientist, GTM
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5228931008 | Anthropic | Applied AI Architect (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227643008 | Anthropic | [London] Applied AI Architect (Public Sector) 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+
 ## Procesadas
