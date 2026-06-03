@@ -422,4 +422,8 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | [P] Data Scientist, Policy
 
+- [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich
+
 ## Procesadas
