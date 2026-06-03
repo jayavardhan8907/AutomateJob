@@ -419,4 +419,7 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209196008 | Anthropic | Data Scientist, Safeguards
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | [P] Data Scientist, Policy
+
 ## Procesadas
