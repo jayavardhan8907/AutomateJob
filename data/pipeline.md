@@ -428,4 +428,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/b404e73c-5aff-4151-a1a8-6593fb6ccabf | Perplexity AI | Member of Technical Staff (Software Engineer, Storage Platform)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
