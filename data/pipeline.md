@@ -430,4 +430,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5155722007 | Together AI | Staff Engineer, Distributed Storage and HPC & AI Infrastructure
+
 ## Procesadas
