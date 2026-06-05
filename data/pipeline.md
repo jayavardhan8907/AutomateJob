@@ -434,4 +434,8 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5201715008 | Anthropic | Applied AI Architect Lead, EMEA Commercial
+- [ ] https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra AI | Software Engineer, Agent Data Platform
+- [ ] https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra AI | Software Engineer, Agent Builder
+
 ## Procesadas
