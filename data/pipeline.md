@@ -432,4 +432,6 @@
 
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5155722007 | Together AI | Staff Engineer, Distributed Storage and HPC & AI Infrastructure
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer
+
 ## Procesadas
