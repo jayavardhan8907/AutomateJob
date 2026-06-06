@@ -438,4 +438,8 @@
 - [ ] https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra AI | Software Engineer, Agent Data Platform
 - [ ] https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra AI | Software Engineer, Agent Builder
 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | Forward Deployed AI Engineer, East
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | Forward Deployed AI Engineer, West
+
 ## Procesadas
