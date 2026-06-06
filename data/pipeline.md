@@ -442,4 +442,8 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | Forward Deployed AI Engineer, West
 
+- [ ] https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Multimodal)
+- [ ] https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91 | Perplexity AI | Member of Technical Staff (ML Engineer, Recommendations & User Modeling)
+
 ## Procesadas
