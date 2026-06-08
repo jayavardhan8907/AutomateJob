@@ -446,4 +446,6 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 - [ ] https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91 | Perplexity AI | Member of Technical Staff (ML Engineer, Recommendations & User Modeling)
 
+- [ ] https://jobs.ashbyhq.com/perplexity/b744b7a6-32d3-49b3-81c7-8f6d862ed848 | Perplexity AI | Engineering Manager (TLM, Agents)
+
 ## Procesadas
