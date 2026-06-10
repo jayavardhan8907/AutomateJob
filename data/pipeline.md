@@ -448,4 +448,7 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/b744b7a6-32d3-49b3-81c7-8f6d862ed848 | Perplexity AI | Engineering Manager (TLM, Agents)
 
+- [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity
+- [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness)
+
 ## Procesadas
