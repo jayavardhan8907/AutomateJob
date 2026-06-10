@@ -451,4 +451,6 @@
 - [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity
 - [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227641008 | Anthropic | Applied AI Security Architect
+
 ## Procesadas
