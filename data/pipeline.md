@@ -460,4 +460,7 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra AI | Software Engineer, Agent (Cantonese Speaking)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4704555005 | Scale AI | Operations Program Manager (Computer Vision), Public Sector
+
 ## Procesadas
