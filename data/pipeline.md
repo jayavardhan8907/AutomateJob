@@ -458,4 +458,6 @@
 
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020299004 | Hightouch | Engineering Manager, Agents
 
+- [ ] https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
