@@ -465,4 +465,6 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Applied AI Inference - Forward Deployed Engineer
 
+- [ ] https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892 | Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities)
+
 ## Procesadas
