@@ -463,4 +463,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra AI | Software Engineer, Agent (Cantonese Speaking)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4704555005 | Scale AI | Operations Program Manager (Computer Vision), Public Sector
 
+- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Applied AI Inference - Forward Deployed Engineer
+
 ## Procesadas
