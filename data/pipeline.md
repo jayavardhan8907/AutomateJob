@@ -467,4 +467,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892 | Perplexity AI | Member of Technical Staff (Software Engineer, Agent Capabilities)
 
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations
+
 ## Procesadas
