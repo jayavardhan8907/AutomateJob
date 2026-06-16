@@ -471,4 +471,6 @@
 
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
 
+- [ ] https://jobs.lever.co/mistral/80358670-36c7-4b00-85f9-9051dc8a341e | Mistral AI | Applied AI Engineer,  Senior/Staff Devops/SRE - Singapore
+
 ## Procesadas
