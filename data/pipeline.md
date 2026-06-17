@@ -475,4 +475,7 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/758beaca-db59-4e46-9867-7a93989735a7 | Sierra AI | Product Manager, Agent Development - Flagship Deployment
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8423972002 | Databricks | Lead Adoption Architect - Agent Bricks 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002 | Databricks | Staff Fullstack Engineer, Agentic Applications
+
 ## Procesadas
