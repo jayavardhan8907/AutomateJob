@@ -473,4 +473,6 @@
 
 - [ ] https://jobs.lever.co/mistral/80358670-36c7-4b00-85f9-9051dc8a341e | Mistral AI | Applied AI Engineer,  Senior/Staff Devops/SRE - Singapore
 
+- [ ] https://jobs.ashbyhq.com/sierra/758beaca-db59-4e46-9867-7a93989735a7 | Sierra AI | Product Manager, Agent Development - Flagship Deployment
+
 ## Procesadas
