@@ -478,4 +478,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8423972002 | Databricks | Lead Adoption Architect - Agent Bricks 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002 | Databricks | Staff Fullstack Engineer, Agentic Applications
 
+- [ ] https://jobs.ashbyhq.com/sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra AI | Product Manager, Agent Development (Brazilian Portuguese speaking)
+
 ## Procesadas
