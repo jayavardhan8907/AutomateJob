@@ -480,4 +480,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra AI | Product Manager, Agent Development (Brazilian Portuguese speaking)
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4640096005 | Scale AI | Machine Learning Solutions Engineer – Robotics 
+
 ## Procesadas
