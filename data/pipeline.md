@@ -482,4 +482,6 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4640096005 | Scale AI | Machine Learning Solutions Engineer – Robotics 
 
+- [ ] https://jobs.ashbyhq.com/sierra/d7febb53-07d2-44fb-8cd0-7e5a011fdf24 | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
+
 ## Procesadas
