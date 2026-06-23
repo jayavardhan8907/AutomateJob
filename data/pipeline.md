@@ -484,4 +484,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/d7febb53-07d2-44fb-8cd0-7e5a011fdf24 | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
 
+- [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra AI | Software Engineer, Agent (Brazilian Portuguese speaking)
+
 ## Procesadas
