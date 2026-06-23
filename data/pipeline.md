@@ -486,4 +486,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra AI | Software Engineer, Agent (Brazilian Portuguese speaking)
 
+- [ ] https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d | Cohere | Senior Technical Program Manager, Machine Learning Infrastructure
+
 ## Procesadas
