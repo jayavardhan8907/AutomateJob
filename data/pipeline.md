@@ -490,4 +490,8 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560772002 | Databricks | Staff Product Manager, Agentic AI Applications
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5278230008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277834008 | Anthropic | Manager, Applied AI Engineering,  Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4611776005 | Scale AI | Senior AI Product Manager, Finance Agents
+
 ## Procesadas
