@@ -488,4 +488,6 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d | Cohere | Senior Technical Program Manager, Machine Learning Infrastructure
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560772002 | Databricks | Staff Product Manager, Agentic AI Applications
+
 ## Procesadas
