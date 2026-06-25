@@ -494,4 +494,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277834008 | Anthropic | Manager, Applied AI Engineering,  Life Sciences (Beneficial Deployments)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4611776005 | Scale AI | Senior AI Product Manager, Finance Agents
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4709281005 | Scale AI | Senior AI Product Manager, Healthcare Agents
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654897005 | Scale AI | Senior Software Engineer - Agentic Tooling & Productivity
+- [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7872683 | Allen Institute for AI (AI2) | Senior Software Engineer, Agent Frameworks
+
 ## Procesadas
