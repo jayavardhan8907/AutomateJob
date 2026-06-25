@@ -498,4 +498,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654897005 | Scale AI | Senior Software Engineer - Agentic Tooling & Productivity
 - [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7872683 | Allen Institute for AI (AI2) | Senior Software Engineer, Agent Frameworks
 
+- [ ] https://jobs.ashbyhq.com/vapi/a6a1bdda-36d5-4f6e-91fc-1554798a2dfa | Vapi | Agent Engineer - EMEA
+
 ## Procesadas
