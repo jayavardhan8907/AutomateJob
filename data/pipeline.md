@@ -500,4 +500,6 @@
 
 - [ ] https://jobs.ashbyhq.com/vapi/a6a1bdda-36d5-4f6e-91fc-1554798a2dfa | Vapi | Agent Engineer - EMEA
 
+- [ ] https://jobs.ashbyhq.com/sierra/56fe4918-7463-46b6-89aa-7ea2fc92a2a3 | Sierra AI | People Partner, Agent Development
+
 ## Procesadas
