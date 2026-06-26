@@ -502,4 +502,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/56fe4918-7463-46b6-89aa-7ea2fc92a2a3 | Sierra AI | People Partner, Agent Development
 
+- [ ] https://jobs.ashbyhq.com/perplexity/ac45b160-4ccc-417c-97f8-73d2d04cebfe | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
