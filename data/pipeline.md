@@ -511,4 +511,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283616008 | Anthropic | Applied AI Architect, Partnerships
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/9e6a5509-db78-4a04-a493-897d9dd9a6be | Twelve Labs | Senior Backend Software Engineer, Tools & Agents
+
 ## Procesadas
