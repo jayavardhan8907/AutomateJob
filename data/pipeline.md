@@ -504,4 +504,9 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/ac45b160-4ccc-417c-97f8-73d2d04cebfe | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://jobs.lever.co/mistral/4eca6d89-c813-4f50-969c-b3ea88b6b956 | Mistral AI | Applied AI Engineer, Fullstack
+- [ ] https://jobs.lever.co/mistral/e6accd7d-27d5-45f0-9f35-3454064374af | Mistral AI | Applied AI, Machine Learning Engineer
+- [ ] https://jobs.lever.co/mistral/ceb43b59-b44b-4f39-9ff3-d533e5d77935 | Mistral AI | Senior/Staff Applied AI Engineer, Fullstack
+- [ ] https://jobs.lever.co/mistral/b985502a-2334-4934-aaf3-8da6501257d0 | Mistral AI | Senior/Staff Applied AI,  Machine Learning Engineer
+
 ## Procesadas
