@@ -509,4 +509,6 @@
 - [ ] https://jobs.lever.co/mistral/ceb43b59-b44b-4f39-9ff3-d533e5d77935 | Mistral AI | Senior/Staff Applied AI Engineer, Fullstack
 - [ ] https://jobs.lever.co/mistral/b985502a-2334-4934-aaf3-8da6501257d0 | Mistral AI | Senior/Staff Applied AI,  Machine Learning Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283616008 | Anthropic | Applied AI Architect, Partnerships
+
 ## Procesadas
