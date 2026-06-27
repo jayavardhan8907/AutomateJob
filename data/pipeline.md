@@ -513,4 +513,7 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/9e6a5509-db78-4a04-a493-897d9dd9a6be | Twelve Labs | Senior Backend Software Engineer, Tools & Agents
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209711008 | Anthropic | Manager, Applied AI Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604954002 | Databricks | Staff Research Engineer, Data Agents
+
 ## Procesadas
