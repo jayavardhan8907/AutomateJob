@@ -521,4 +521,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002 | Databricks | Senior Data and AI Engineer - Finance
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002 | Databricks | Staff Data and AI Engineer, Finance
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002 | Databricks | Staff Machine Learning Engineer, CustomerLake (ML/LLM)
+
 ## Procesadas
