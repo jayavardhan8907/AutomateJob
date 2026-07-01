@@ -516,4 +516,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209711008 | Anthropic | Manager, Applied AI Engineering
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604954002 | Databricks | Staff Research Engineer, Data Agents
 
+- [ ] https://jobs.lever.co/mistral/d11af6fc-0ba3-4986-bfd9-873074e5f3d8 | Mistral AI | Senior/Staff Applied AI Engineer, Devops/SRE
+
 ## Procesadas
