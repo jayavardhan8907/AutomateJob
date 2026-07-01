@@ -518,4 +518,7 @@
 
 - [ ] https://jobs.lever.co/mistral/d11af6fc-0ba3-4986-bfd9-873074e5f3d8 | Mistral AI | Senior/Staff Applied AI Engineer, Devops/SRE
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002 | Databricks | Senior Data and AI Engineer - Finance
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002 | Databricks | Staff Data and AI Engineer, Finance
+
 ## Procesadas
