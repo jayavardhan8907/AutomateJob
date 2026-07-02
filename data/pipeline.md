@@ -523,4 +523,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002 | Databricks | Staff Machine Learning Engineer, CustomerLake (ML/LLM)
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4711544005 | Scale AI | Machine Learning Engineer, Platform
+
 ## Procesadas
