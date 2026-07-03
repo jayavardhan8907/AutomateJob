@@ -525,4 +525,9 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4711544005 | Scale AI | Machine Learning Engineer, Platform
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290837008 | Anthropic | Engineering Manager, Agent Runtime Platform
+- [ ] https://jobs.ashbyhq.com/sierra/000618f7-e0d0-43dc-ae15-2b20d948852f | Sierra AI | Software Engineer, Agent - Insurance
+- [ ] https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra AI | Software Engineer, Agent - Financial Services
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597826002 | GitLab (AI Engineering) | Senior Manager, Product Management: Agentic Software Delivery
+
 ## Procesadas
