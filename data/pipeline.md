@@ -530,4 +530,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra AI | Software Engineer, Agent - Financial Services
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597826002 | GitLab (AI Engineering) | Senior Manager, Product Management: Agentic Software Delivery
 
+- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Applied AI (Senior or Staff Level)
+
 ## Procesadas
