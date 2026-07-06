@@ -532,4 +532,6 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Applied AI (Senior or Staff Level)
 
+- [ ] https://jobs.lever.co/mistral/2803542b-e1b8-4e69-b849-50fcf4c0a65b | Mistral AI | Model Behavior Architect- General Agents
+
 ## Procesadas
