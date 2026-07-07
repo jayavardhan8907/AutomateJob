@@ -539,4 +539,6 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4712145005 | Scale AI | Sr Staff ML Forward Deployed Engineer, Enterprise GenAI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5300430008 | Anthropic | Applied AI Architect, Partnerships 
+
 ## Procesadas
