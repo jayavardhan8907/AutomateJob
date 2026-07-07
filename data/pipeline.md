@@ -534,4 +534,7 @@
 
 - [ ] https://jobs.lever.co/mistral/2803542b-e1b8-4e69-b849-50fcf4c0a65b | Mistral AI | Model Behavior Architect- General Agents
 
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4816209008 | Hume AI | Senior Software Engineer - Backend & Machine Learning
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8603824002 | GitLab (AI Engineering) | Engineering Manager, AI Engineering: Chat
+
 ## Procesadas
