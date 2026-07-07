@@ -537,4 +537,6 @@
 - [ ] https://job-boards.greenhouse.io/humeai/jobs/4816209008 | Hume AI | Senior Software Engineer - Backend & Machine Learning
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8603824002 | GitLab (AI Engineering) | Engineering Manager, AI Engineering: Chat
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4712145005 | Scale AI | Sr Staff ML Forward Deployed Engineer, Enterprise GenAI
+
 ## Procesadas
