@@ -545,4 +545,8 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5284500008 | Anthropic | Strategy & Operations, Applied AI - AMER
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8051388 | Intercom | Senior Engineering Manager, Fin AI Agent
+- [ ] https://jobs.ashbyhq.com/twelve-labs/8cc39c5c-19ce-47f5-92d2-2a816c103454 | Twelve Labs | Senior AI Engineer, Tools & Agents
+
 ## Procesadas
