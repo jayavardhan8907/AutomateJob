@@ -543,4 +543,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002 | Databricks | Sr. Engineering Manager - Agentic Service Platform 
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
