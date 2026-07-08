@@ -541,4 +541,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5300430008 | Anthropic | Applied AI Architect, Partnerships 
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002 | Databricks | Sr. Engineering Manager - Agentic Service Platform 
+
 ## Procesadas
