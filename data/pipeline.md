@@ -549,4 +549,7 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8051388 | Intercom | Senior Engineering Manager, Fin AI Agent
 - [ ] https://jobs.ashbyhq.com/twelve-labs/8cc39c5c-19ce-47f5-92d2-2a816c103454 | Twelve Labs | Senior AI Engineer, Tools & Agents
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5304425008 | Anthropic | Staff Software Engineer, Labs: Applied AI
+- [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer
+
 ## Procesadas
