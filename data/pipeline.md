@@ -552,4 +552,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5304425008 | Anthropic | Staff Software Engineer, Labs: Applied AI
 - [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 | Anthropic | Engineering Manager, Agent Runtime Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8625462002 | Databricks | Applied AI Engineer, Learning Intelligence
+
 ## Procesadas
