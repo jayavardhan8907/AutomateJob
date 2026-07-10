@@ -555,4 +555,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 | Anthropic | Engineering Manager, Agent Runtime Platform
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8625462002 | Databricks | Applied AI Engineer, Learning Intelligence
 
+- [ ] https://jobs.ashbyhq.com/perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941 | Perplexity AI | Member of Technical Staff (Software Engineer, Agentic Enterprise)
+
 ## Procesadas
