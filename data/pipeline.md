@@ -557,4 +557,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941 | Perplexity AI | Member of Technical Staff (Software Engineer, Agentic Enterprise)
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005 | Glean | Software Engineer, Agents
+
 ## Procesadas
