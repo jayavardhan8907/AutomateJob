@@ -559,4 +559,7 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005 | Glean | Software Engineer, Agents
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002 | Databricks | Senior Solutions Architect (DS/ML/GenAI/LLM)
+
 ## Procesadas
