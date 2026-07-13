@@ -562,4 +562,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002 | Databricks | Senior Solutions Architect (DS/ML/GenAI/LLM)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
