@@ -564,4 +564,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8611391002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8621620002 | GitLab (AI Engineering) | Senior Backend Engineer, AI Engineering: AI Coding
+
 ## Procesadas
