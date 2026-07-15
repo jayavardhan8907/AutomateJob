@@ -570,4 +570,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714527005 | Scale AI | Senior Machine Learning Engineer, Agent Oversight
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 | Scale AI | Senior Software Engineer, Agent Oversight
 
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4056271009 | Fireworks AI |  Software Engineer, LLM Infrastructure
+
 ## Procesadas
