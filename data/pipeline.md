@@ -566,4 +566,8 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8621620002 | GitLab (AI Engineering) | Senior Backend Engineer, AI Engineering: AI Coding
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5343697008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714527005 | Scale AI | Senior Machine Learning Engineer, Agent Oversight
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 | Scale AI | Senior Software Engineer, Agent Oversight
+
 ## Procesadas
