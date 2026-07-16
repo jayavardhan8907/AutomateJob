@@ -574,4 +574,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002 | Databricks | Staff Software Engineer, Agentic Applications
 
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8069513 | Recursion Pharmaceuticals | Engineering Manager - Machine Learning
+
 ## Procesadas
