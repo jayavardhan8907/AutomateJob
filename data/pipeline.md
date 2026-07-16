@@ -572,4 +572,6 @@
 
 - [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4056271009 | Fireworks AI |  Software Engineer, LLM Infrastructure
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002 | Databricks | Staff Software Engineer, Agentic Applications
+
 ## Procesadas
