@@ -576,4 +576,7 @@
 
 - [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8069513 | Recursion Pharmaceuticals | Engineering Manager - Machine Learning
 
+- [ ] https://jobs.ashbyhq.com/perplexity/6829d54e-570b-4001-a822-3c1e85a34371 | Perplexity AI | Engineering Manager (TLM, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/0f14dc7f-84c3-4447-a28a-e926fa8b053b | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
