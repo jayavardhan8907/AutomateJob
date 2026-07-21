@@ -582,4 +582,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4716836005 | Scale AI | Engagement Manager (Computer Vision), Public Sector
 - [ ] https://jobs.ashbyhq.com/twelve-labs/8ad28030-3654-4793-a7e1-25611e29fbd0 | Twelve Labs | Senior AI Engineer, Tools & Agents
 
+- [ ] https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f | Sierra AI | GTM Operations, Agent Development
+
 ## Procesadas
