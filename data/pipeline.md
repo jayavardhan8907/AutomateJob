@@ -579,4 +579,7 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/6829d54e-570b-4001-a822-3c1e85a34371 | Perplexity AI | Engineering Manager (TLM, Agents)
 - [ ] https://jobs.ashbyhq.com/perplexity/0f14dc7f-84c3-4447-a28a-e926fa8b053b | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4716836005 | Scale AI | Engagement Manager (Computer Vision), Public Sector
+- [ ] https://jobs.ashbyhq.com/twelve-labs/8ad28030-3654-4793-a7e1-25611e29fbd0 | Twelve Labs | Senior AI Engineer, Tools & Agents
+
 ## Procesadas
