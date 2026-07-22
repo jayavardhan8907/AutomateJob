@@ -584,4 +584,8 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f | Sierra AI | GTM Operations, Agent Development
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008 | Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research
+- [ ] https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91 | Sierra AI | Software Engineer, Agent - Travel & Hospitality
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8621733002 | GitLab (AI Engineering) | Senior Backend Engineer, AI Engineering: Chat   
+
 ## Procesadas
