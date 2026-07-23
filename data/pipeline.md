@@ -591,4 +591,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a | Sierra AI | Strategist, Agent Development - Retail
 - [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4329136009 | Fireworks AI | Applied Machine Learning Engineer, EMEA
 
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4327575009 | Fireworks AI | Applied Machine Learning Engineer, Singapore
+
 ## Procesadas
