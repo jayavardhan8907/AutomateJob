@@ -593,4 +593,6 @@
 
 - [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4327575009 | Fireworks AI | Applied Machine Learning Engineer, Singapore
 
+- [ ] https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af | Cohere | Data Scientist, North Insights
+
 ## Procesadas
