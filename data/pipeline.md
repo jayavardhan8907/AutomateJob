@@ -595,4 +595,6 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af | Cohere | Data Scientist, North Insights
 
+- [ ] https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22 | Sierra AI | Product Manager, Agent Development (Spanish speaking)
+
 ## Procesadas
