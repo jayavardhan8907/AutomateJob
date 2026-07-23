@@ -588,4 +588,7 @@
 - [ ] https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91 | Sierra AI | Software Engineer, Agent - Travel & Hospitality
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8621733002 | GitLab (AI Engineering) | Senior Backend Engineer, AI Engineering: Chat   
 
+- [ ] https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a | Sierra AI | Strategist, Agent Development - Retail
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4329136009 | Fireworks AI | Applied Machine Learning Engineer, EMEA
+
 ## Procesadas
