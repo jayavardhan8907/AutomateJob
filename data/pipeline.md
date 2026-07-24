@@ -597,4 +597,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22 | Sierra AI | Product Manager, Agent Development (Spanish speaking)
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4609736005 | Scale AI | AI Product Manager (Coding/Multimodal)
+
 ## Procesadas
