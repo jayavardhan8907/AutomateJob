@@ -599,4 +599,8 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4609736005 | Scale AI | AI Product Manager (Coding/Multimodal)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/cohere/bb0c781f-b2ca-47fb-90bf-ee13dbf58718 | Cohere | Engineering Manager, FDE Agentic Platform 
+- [ ] https://jobs.ashbyhq.com/perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
