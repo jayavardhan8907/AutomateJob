@@ -605,4 +605,6 @@
 
 - [ ] https://www.pathai.com/careers/8651564002?gh_jid=8651564002 | PathAI | Software Engineering Co-op MLOps: September - December 2026
 
+- [ ] https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
+
 ## Procesadas
