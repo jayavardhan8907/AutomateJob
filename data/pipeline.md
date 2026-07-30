@@ -610,4 +610,7 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript)
 - [ ] https://jobs.ashbyhq.com/sierra/83a88812-d488-4a24-bb39-e1b0aa6dd240 | Sierra AI | Strategist, Agent Development (Spanish speaking)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002 | Databricks | Full Stack Developer (AI Agents)
+- [ ] https://jobs.ashbyhq.com/sierra/6c246883-6335-413e-9183-ece94780590c | Sierra AI | GTM Operations Analyst, Agent Development
+
 ## Procesadas
