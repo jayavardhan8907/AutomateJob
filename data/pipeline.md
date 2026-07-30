@@ -607,4 +607,7 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript)
+- [ ] https://jobs.ashbyhq.com/sierra/83a88812-d488-4a24-bb39-e1b0aa6dd240 | Sierra AI | Strategist, Agent Development (Spanish speaking)
+
 ## Procesadas
