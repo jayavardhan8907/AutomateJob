@@ -613,4 +613,7 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002 | Databricks | Full Stack Developer (AI Agents)
 - [ ] https://jobs.ashbyhq.com/sierra/6c246883-6335-413e-9183-ece94780590c | Sierra AI | GTM Operations Analyst, Agent Development
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8096347 | Intercom | Senior Engineering Manager, Customer Agent
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002 | Databricks | AI Engineer — GTM Analytics
+
 ## Procesadas
