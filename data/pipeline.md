@@ -616,4 +616,6 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8096347 | Intercom | Senior Engineering Manager, Customer Agent
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002 | Databricks | AI Engineer — GTM Analytics
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720050005 | Scale AI | Staff Applied AI Engineer
+
 ## Procesadas
