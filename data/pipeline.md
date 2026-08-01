@@ -618,4 +618,9 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720050005 | Scale AI | Staff Applied AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720573005 | Scale AI | Frontier Agents Engineer (Applied AI)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720478005 | Scale AI | Senior Frontier Agents Engineer (Applied AI)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720487005 | Scale AI | Staff Frontier Agents Engineer (Applied AI)
+- [ ] https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d | Sierra AI | Software Engineer, Agent - Healthcare Integrations
+
 ## Procesadas
