@@ -625,4 +625,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 | Databricks | Senior Applied ML Engineer - ML4Sys 
+
 ## Procesadas
