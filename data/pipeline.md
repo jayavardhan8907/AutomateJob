@@ -623,4 +623,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720487005 | Scale AI | Staff Frontier Agents Engineer (Applied AI)
 - [ ] https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d | Sierra AI | Software Engineer, Agent - Healthcare Integrations
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
