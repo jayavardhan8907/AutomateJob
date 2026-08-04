@@ -629,4 +629,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711484005 | Glean | Machine Learning Engineer, Assistant Quality
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/02862ae5-e28b-4f27-940a-2ecd57c077e0 | Twelve Labs | Senior Machine Learning Engineer, Jockey Core
+
 ## Procesadas
