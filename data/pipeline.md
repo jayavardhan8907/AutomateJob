@@ -627,4 +627,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 | Databricks | Senior Applied ML Engineer - ML4Sys 
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711484005 | Glean | Machine Learning Engineer, Assistant Quality
+
 ## Procesadas
