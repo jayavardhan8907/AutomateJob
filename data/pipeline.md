@@ -631,4 +631,7 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/02862ae5-e28b-4f27-940a-2ecd57c077e0 | Twelve Labs | Senior Machine Learning Engineer, Jockey Core
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5358094008 | Anthropic | Data Scientist, Finance Forecasting
+- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | AI Engineer, Enablement 
+
 ## Procesadas
