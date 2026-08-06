@@ -634,4 +634,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5358094008 | Anthropic | Data Scientist, Finance Forecasting
 - [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | AI Engineer, Enablement 
 
+- [ ] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | AI Engineer, Enablement (London)
+- [ ] https://jobs.ashbyhq.com/langchain/0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4 | LangChain | AI Engineer, Enablement (Amsterdam)
+
 ## Procesadas
