@@ -637,4 +637,6 @@
 - [ ] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | AI Engineer, Enablement (London)
 - [ ] https://jobs.ashbyhq.com/langchain/0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4 | LangChain | AI Engineer, Enablement (Amsterdam)
 
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
+
 ## Procesadas
