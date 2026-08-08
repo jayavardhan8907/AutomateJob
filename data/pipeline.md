@@ -639,4 +639,7 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383335008 | Anthropic | Applied AI Architect, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/8110068 | Allen Institute for AI (AI2) | Senior Software Engineer, Agent Platform (AI for the Planet)
+
 ## Procesadas
