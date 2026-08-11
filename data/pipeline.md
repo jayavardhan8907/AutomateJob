@@ -642,4 +642,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383335008 | Anthropic | Applied AI Architect, Enterprise Tech
 - [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/8110068 | Allen Institute for AI (AI2) | Senior Software Engineer, Agent Platform (AI for the Planet)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002 | Databricks | AI Engineer, FDE (Forward Deployed Engineer)
+
 ## Procesadas
