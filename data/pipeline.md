@@ -644,4 +644,8 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002 | Databricks | AI Engineer, FDE (Forward Deployed Engineer)
 
+- [ ] https://www.pathai.com/careers/8696752002?gh_jid=8696752002 | PathAI | Machine Learning Engineer II/III (Applied Research & Model Development)
+- [ ] https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68 | Cohere | Engineering Manager, FDE Agentic Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
