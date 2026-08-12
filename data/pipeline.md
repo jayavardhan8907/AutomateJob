@@ -648,4 +648,8 @@
 - [ ] https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68 | Cohere | Engineering Manager, FDE Agentic Platform
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33 | Sierra AI | Software Engineer, Agent - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1 | Baseten | Software Engineer - AI Developer Productivity
+
 ## Procesadas
