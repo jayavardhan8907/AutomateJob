@@ -652,4 +652,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1 | Baseten | Software Engineer - AI Developer Productivity
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, LLM Infrastructure
+
 ## Procesadas
