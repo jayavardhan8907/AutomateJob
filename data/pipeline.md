@@ -654,4 +654,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, LLM Infrastructure
 
+- [ ] https://jobs.ashbyhq.com/perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)
+
 ## Procesadas
