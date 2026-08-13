@@ -656,4 +656,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)
 
+- [ ] https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0 | Cohere | Member of Technical Staff, Agentic Environments 
+
 ## Procesadas
