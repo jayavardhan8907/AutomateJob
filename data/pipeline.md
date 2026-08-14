@@ -663,4 +663,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4723663005 | Glean | Senior Data Scientist, Growth
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4723427005 | Glean | Senior Data Scientist, Growth
+
 ## Procesadas
