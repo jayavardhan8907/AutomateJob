@@ -661,4 +661,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a | Sierra AI | Software Engineer, Agent - Tech, Media & Telecom
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8709386002 | Databricks | Engineering Manager, CustomerLake Profile Agents
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4723663005 | Glean | Senior Data Scientist, Growth
+
 ## Procesadas
