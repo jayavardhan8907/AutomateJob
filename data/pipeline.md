@@ -658,4 +658,7 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0 | Cohere | Member of Technical Staff, Agentic Environments 
 
+- [ ] https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a | Sierra AI | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8709386002 | Databricks | Engineering Manager, CustomerLake Profile Agents
+
 ## Procesadas
