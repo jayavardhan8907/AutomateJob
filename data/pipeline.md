@@ -667,4 +667,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002 | Databricks | Sr. Developer Advocate, AI and Machine Learning
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002 | Databricks | Sr. Developer Advocate, AI and Machine Learning
+
 ## Procesadas
