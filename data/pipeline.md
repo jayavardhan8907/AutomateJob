@@ -665,4 +665,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4723427005 | Glean | Senior Data Scientist, Growth
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002 | Databricks | Sr. Developer Advocate, AI and Machine Learning
+
 ## Procesadas
