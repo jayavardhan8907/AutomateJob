@@ -669,4 +669,7 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8716720002 | Databricks | Sr. Developer Advocate, AI and Machine Learning
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390778008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390742008 | Anthropic | Solutions Architect, Applied AI
+
 ## Procesadas
