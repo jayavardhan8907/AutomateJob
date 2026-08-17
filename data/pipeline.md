@@ -672,4 +672,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390778008 | Anthropic | Applied AI Architect, Industries 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390742008 | Anthropic | Solutions Architect, Applied AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships
+
 ## Procesadas
