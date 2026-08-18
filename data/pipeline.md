@@ -678,4 +678,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390877008 | Anthropic | Applied AI Architect, Public Sector (National Security)
+
 ## Procesadas
