@@ -676,4 +676,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8337361002 | Databricks | Director, Agent & AI Search
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance
+
 ## Procesadas
