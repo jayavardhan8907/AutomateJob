@@ -674,4 +674,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8337361002 | Databricks | Director, Agent & AI Search
+
 ## Procesadas
