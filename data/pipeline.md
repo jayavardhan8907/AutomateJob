@@ -687,4 +687,9 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247989008 | Anthropic | Solution Architect, Applied AI
 - [ ] https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd | Cohere | Applied Machine Learning Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390765008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387827008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8704363002 | GitLab (AI Engineering) | Senior Backend Engineer (Python), Agent Developer: Flow Components
+
 ## Procesadas
