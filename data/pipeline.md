@@ -680,4 +680,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390877008 | Anthropic | Applied AI Architect, Public Sector (National Security)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390799008 | Anthropic | Product Engineer, Applied AI
+
 ## Procesadas
