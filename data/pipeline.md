@@ -682,4 +682,9 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390799008 | Anthropic | Product Engineer, Applied AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390746008 | Anthropic | [India] Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390750008 | Anthropic | Partner Solutions Architect,Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247989008 | Anthropic | Solution Architect, Applied AI
+- [ ] https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd | Cohere | Applied Machine Learning Engineer
+
 ## Procesadas
