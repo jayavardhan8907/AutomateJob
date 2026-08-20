@@ -692,4 +692,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8704363002 | GitLab (AI Engineering) | Senior Backend Engineer (Python), Agent Developer: Flow Components
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5392856008 | Anthropic | DevOps / AgentOps Engineer, GTM Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390735008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60 | Baseten | AI Engineer
+
 ## Procesadas
