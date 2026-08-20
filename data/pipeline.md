@@ -696,4 +696,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390735008 | Anthropic | Solutions Architect, Applied AI
 - [ ] https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60 | Baseten | AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390754008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5395767008 | Anthropic | Staff+ Software Engineer, Claude Managed Agents
+
 ## Procesadas
