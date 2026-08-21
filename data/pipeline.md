@@ -699,4 +699,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390754008 | Anthropic | Applied AI Engineer, Enterprise
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5395767008 | Anthropic | Staff+ Software Engineer, Claude Managed Agents
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390865008 | Anthropic | Manager of Applied AI Architecture, Commercial
+- [ ] https://jobs.ashbyhq.com/deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54 | Deepgram | Senior Data Scientist, Data Flywheel
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8698314002 | GitLab (AI Engineering) | Backend Engineer, AI Engineering: Duo Chat
+
 ## Procesadas
