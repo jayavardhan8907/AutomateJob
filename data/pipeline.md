@@ -703,4 +703,8 @@
 - [ ] https://jobs.ashbyhq.com/deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54 | Deepgram | Senior Data Scientist, Data Flywheel
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8698314002 | GitLab (AI Engineering) | Backend Engineer, AI Engineering: Duo Chat
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390894008 | Anthropic | Manager Applied AI Architecture, Financial Services
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390890008 | Anthropic | Manager Applied AI Architecture, Healthcare & Life Sciences
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8698330002 | GitLab (AI Engineering) | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK
+
 ## Procesadas
