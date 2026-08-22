@@ -707,4 +707,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390890008 | Anthropic | Manager Applied AI Architecture, Healthcare & Life Sciences
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8698330002 | GitLab (AI Engineering) | Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK
 
+- [ ] https://jobs.ashbyhq.com/deepgram/6e3344f4-48c7-4127-871c-3f1dada45323 | Deepgram | Director of Research, Text to Speech
+
 ## Procesadas
