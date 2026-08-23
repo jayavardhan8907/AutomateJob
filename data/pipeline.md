@@ -709,4 +709,6 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/6e3344f4-48c7-4127-871c-3f1dada45323 | Deepgram | Director of Research, Text to Speech
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/a8fa59d5-e364-43ec-9a5a-dc98a2f3ed53 | Twelve Labs | Senior Machine Learning Engineer, Pegasus
+
 ## Procesadas
