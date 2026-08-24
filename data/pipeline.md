@@ -711,4 +711,6 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/a8fa59d5-e364-43ec-9a5a-dc98a2f3ed53 | Twelve Labs | Senior Machine Learning Engineer, Pegasus
 
+- [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector)
+
 ## Procesadas
