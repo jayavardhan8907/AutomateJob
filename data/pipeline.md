@@ -713,4 +713,8 @@
 
 - [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector)
 
+- [ ] https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778 | Sierra AI | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/bb9153b1-ea92-44bd-b286-59675a043850 | Sierra AI | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6 | Sierra AI | Product Manager, Agent Development - Public Sector
+
 ## Procesadas
