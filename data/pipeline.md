@@ -721,4 +721,8 @@
 
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5217063007 | Together AI | Senior Software Engineer — Infra Agent Systems Remote India
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387754008 | Anthropic | Manager, Applied AI Architect, Enterprise Tech
+- [ ] https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/575cf637-3a7a-4d9c-883c-8b0265811984 | Sierra AI | Agent Strategist
+
 ## Procesadas
