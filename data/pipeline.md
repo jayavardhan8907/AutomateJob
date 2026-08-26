@@ -734,4 +734,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390770008 | Anthropic | Applied AI Architect, Industries 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390791008 | Anthropic | Applied AI Strategist, EMEA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4728014005 | Scale AI | Machine Learning Research Scientist, Evaluations
+
 ## Procesadas
