@@ -725,4 +725,9 @@
 - [ ] https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra AI | Software Engineer, Agent
 - [ ] https://jobs.ashbyhq.com/sierra/575cf637-3a7a-4d9c-883c-8b0265811984 | Sierra AI | Agent Strategist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification 
+- [ ] https://jobs.ashbyhq.com/perplexity/0a74edd7-830a-4825-946c-28801a057127 | Perplexity AI | Member of Technical Staff (Software Engineer, Agent Harness)
+- [ ] https://jobs.ashbyhq.com/vapi/0d4f1420-2590-4a38-aac4-3efda12eadb0 | Vapi | Member of Technical Staff, Agentic Developer Experience
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8517171002 | GitLab (AI Engineering) | Forward Deployed Engineer, AI and Agentic SDLC
+
 ## Procesadas
