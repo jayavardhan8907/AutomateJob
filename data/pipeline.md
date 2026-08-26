@@ -730,4 +730,8 @@
 - [ ] https://jobs.ashbyhq.com/vapi/0d4f1420-2590-4a38-aac4-3efda12eadb0 | Vapi | Member of Technical Staff, Agentic Developer Experience
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8517171002 | GitLab (AI Engineering) | Forward Deployed Engineer, AI and Agentic SDLC
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227672008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390770008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8749859002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
