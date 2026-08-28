@@ -743,4 +743,8 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409008008 | Anthropic | Applied AI Architect, Strategic Enterprise Tech
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5406982008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760168002 | Databricks | Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002 | Databricks | Staff Software Engineer, Sales Data & Agents
+
 ## Procesadas
