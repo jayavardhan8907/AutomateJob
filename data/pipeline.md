@@ -741,4 +741,6 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/50a2def5-adeb-4f13-99c1-88c32482b772 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 - [ ] https://jobs.ashbyhq.com/langchain/47ad420c-9302-4a4f-a35f-7dd29e1d9d28 | LangChain | AI Engineer, Enablement 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409008008 | Anthropic | Applied AI Architect, Strategic Enterprise Tech
+
 ## Procesadas
