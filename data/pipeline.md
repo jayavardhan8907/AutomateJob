@@ -747,4 +747,7 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760168002 | Databricks | Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760171002 | Databricks | Staff Software Engineer, Sales Data & Agents
 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002 | Databricks | Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
+
 ## Procesadas
