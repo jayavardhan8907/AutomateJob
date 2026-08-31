@@ -750,4 +750,6 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002 | Databricks | Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector
 
+- [ ] https://jobs.ashbyhq.com/sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c | Sierra AI | Product Manager, Agent Development - Financial Services
+
 ## Procesadas
