@@ -752,4 +752,8 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c | Sierra AI | Product Manager, Agent Development - Financial Services
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5129961008 | Anthropic | Applied AI Research (Capabilities)
+- [ ] https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra AI | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0 | Sierra AI | Software Engineer, Agent (Spanish speaking)
+
 ## Procesadas
