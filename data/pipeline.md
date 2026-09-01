@@ -756,4 +756,7 @@
 - [ ] https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra AI | Software Engineer, Agent (New Grad 2027)
 - [ ] https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0 | Sierra AI | Software Engineer, Agent (Spanish speaking)
 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5222270007 | Together AI | Senior Software Engineer — Infra Agent Systems UK
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8759592002 | GitLab (AI Engineering) | Engineering Manager, Agent Foundations: Agent Execution 
+
 ## Procesadas
