@@ -759,4 +759,6 @@
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5222270007 | Together AI | Senior Software Engineer — Infra Agent Systems UK
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8759592002 | GitLab (AI Engineering) | Engineering Manager, Agent Foundations: Agent Execution 
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
