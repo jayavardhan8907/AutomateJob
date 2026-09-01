@@ -761,4 +761,7 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760 | ElevenLabs | Data Scientist - AI Safety
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
