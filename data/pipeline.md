@@ -767,4 +767,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/5230b7d7-f813-4942-96ca-a7de154c4b50 | Sierra AI |  Executive Assistant, Product & Agent Development
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
