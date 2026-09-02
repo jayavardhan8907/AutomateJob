@@ -764,4 +764,7 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760 | ElevenLabs | Data Scientist - AI Safety
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://jobs.ashbyhq.com/sierra/5230b7d7-f813-4942-96ca-a7de154c4b50 | Sierra AI |  Executive Assistant, Product & Agent Development
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+
 ## Procesadas
