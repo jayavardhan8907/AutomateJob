@@ -769,4 +769,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/0869a12a-5beb-4f36-bda6-36cdb32931b4 | Twelve Labs | Senior ML Research Engineer, Multimodal Structure & Marengo
+
 ## Procesadas
