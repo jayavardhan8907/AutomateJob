@@ -771,4 +771,7 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/0869a12a-5beb-4f36-bda6-36cdb32931b4 | Twelve Labs | Senior ML Research Engineer, Multimodal Structure & Marengo
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387733008 | Anthropic | Applied AI Architect, Cyber
+- [ ] https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26 | Vapi | Member of Technical Staff, Agentic Release Engineer
+
 ## Procesadas
