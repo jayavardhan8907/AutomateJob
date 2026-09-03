@@ -780,4 +780,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/a4afb8ff-0477-4fa6-a787-0cec5f28e23f | Sierra AI | Strategist, Agent Development - Tech, Media & Telecom
 - [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729957005 | Razorpay | AI Engineer (Platform)
 
+- [ ] https://jobs.ashbyhq.com/baseten/f160637f-b6bf-4f69-a8bd-862a3a3a8b0d | Baseten | Data Scientist (Analytics)
+
 ## Procesadas
