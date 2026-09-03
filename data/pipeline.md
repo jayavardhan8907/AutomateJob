@@ -777,4 +777,7 @@
 - [ ] https://jobs.ashbyhq.com/sierra/d8baf20a-4c20-496d-9f0c-bc47a25fddb8 | Sierra AI | GTM Operations, Agent Development (London)
 - [ ] https://jobs.ashbyhq.com/baseten/2efc2f65-9494-482a-9b21-5d009d045423 | Baseten | Product Data Scientist
 
+- [ ] https://jobs.ashbyhq.com/sierra/a4afb8ff-0477-4fa6-a787-0cec5f28e23f | Sierra AI | Strategist, Agent Development - Tech, Media & Telecom
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729957005 | Razorpay | AI Engineer (Platform)
+
 ## Procesadas
