@@ -774,4 +774,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387733008 | Anthropic | Applied AI Architect, Cyber
 - [ ] https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26 | Vapi | Member of Technical Staff, Agentic Release Engineer
 
+- [ ] https://jobs.ashbyhq.com/sierra/d8baf20a-4c20-496d-9f0c-bc47a25fddb8 | Sierra AI | GTM Operations, Agent Development (London)
+- [ ] https://jobs.ashbyhq.com/baseten/2efc2f65-9494-482a-9b21-5d009d045423 | Baseten | Product Data Scientist
+
 ## Procesadas
