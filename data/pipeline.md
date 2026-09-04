@@ -786,4 +786,8 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603394002 | Databricks | Global Senior Workplace Manager, Food and Beverage
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8782040002 | GitLab (AI Engineering) | Engineering Manager, Trusted Agentic Development
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390811008 | Anthropic | Applied AI, Research Engineer 
+- [ ] https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911 | LangChain | Lead Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4722811005 | Scale AI | Sr. Director, (Applied AI)  Forward Deployed Engineering 
+
 ## Procesadas
