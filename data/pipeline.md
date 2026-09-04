@@ -782,4 +782,8 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/f160637f-b6bf-4f69-a8bd-862a3a3a8b0d | Baseten | Data Scientist (Analytics)
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730306005 | Scale AI | GenAI Compliance Operations & Programs Associate 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603394002 | Databricks | Global Senior Workplace Manager, Food and Beverage
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8782040002 | GitLab (AI Engineering) | Engineering Manager, Trusted Agentic Development
+
 ## Procesadas
