@@ -790,4 +790,6 @@
 - [ ] https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911 | LangChain | Lead Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4722811005 | Scale AI | Sr. Director, (Applied AI)  Forward Deployed Engineering 
 
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5222294007 | Together AI | Senior Software Engineer — Infra Agent Systems 
+
 ## Procesadas
