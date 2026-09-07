@@ -798,4 +798,6 @@
 
 - [ ] https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f | LangChain | Agent Reliability Engineer, GTM
 
+- [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra AI | Software Engineer, Agent (New Grad 2027)
+
 ## Procesadas
