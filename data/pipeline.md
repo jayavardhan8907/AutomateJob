@@ -802,4 +802,10 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117589008 | Anthropic | Solutions Architect, Applied AI
 
+- [ ] https://www.pathai.com/careers/8786343002?gh_jid=8786343002 | PathAI | Machine Learning Engineer III (Applied Research & Model Development)
+- [ ] https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2 | Perplexity AI | Applied AI Architect, Perplexity Computer
+- [ ] https://jobs.ashbyhq.com/sierra/66165ead-ae40-420a-93ff-aa6a5864462a | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5 | Sierra AI | Strategist, Agent Development (Spanish speaking)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8760233002 | GitLab (AI Engineering) | Senior Backend Engineer, Trusted Agentic Development
+
 ## Procesadas
