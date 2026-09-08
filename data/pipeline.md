@@ -800,4 +800,6 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra AI | Software Engineer, Agent (New Grad 2027)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117589008 | Anthropic | Solutions Architect, Applied AI
+
 ## Procesadas
