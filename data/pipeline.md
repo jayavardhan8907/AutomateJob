@@ -808,4 +808,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5 | Sierra AI | Strategist, Agent Development (Spanish speaking)
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8760233002 | GitLab (AI Engineering) | Senior Backend Engineer, Trusted Agentic Development
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8785285002 | GitLab (AI Engineering) | Senior Software Engineer, NLP
+
 ## Procesadas
