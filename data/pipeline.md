@@ -810,4 +810,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8785285002 | GitLab (AI Engineering) | Senior Software Engineer, NLP
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413642008 | Anthropic | Applied AI Architect, Beneficial Deployments (Life Sciences)
+
 ## Procesadas
