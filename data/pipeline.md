@@ -814,4 +814,8 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002 | Databricks | Sr. IT Full Stack Developer (AI Agents)
 
+- [ ] https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0 | Perplexity AI | Member of Technical Staff (Applied AI Engineer, Agent Capabilities)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI | Senior Machine Learning Engineer, Public Sector
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002 | Databricks | Staff Security Software Engineer, Agentic Security Engineering 
+
 ## Procesadas
