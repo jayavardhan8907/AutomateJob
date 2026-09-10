@@ -812,4 +812,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413642008 | Anthropic | Applied AI Architect, Beneficial Deployments (Life Sciences)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002 | Databricks | Sr. IT Full Stack Developer (AI Agents)
+
 ## Procesadas
