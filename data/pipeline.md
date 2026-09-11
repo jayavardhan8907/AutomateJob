@@ -818,4 +818,9 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI | Senior Machine Learning Engineer, Public Sector
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002 | Databricks | Staff Security Software Engineer, Agentic Security Engineering 
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654382005 | Scale AI | Staff Machine Learning Engineer, Public Sector
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5233669007 | Together AI | Senior Software Engineer — Infra Agent Systems
+- [ ] https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616 | Baseten | AI Engineer
+- [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7872642 | Allen Institute for AI (AI2) | Senior Software Engineer, Agentic Applications 
+
 ## Procesadas
