@@ -826,4 +826,6 @@
 - [ ] https://jobs.ashbyhq.com/twelve-labs/9e397297-8949-47bf-9c77-bf7b407b3c23 | Twelve Labs | Staff Machine Learning Engineer, Video Ingestion & Serving Platform
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5226095007 | Together AI | Staff Engineer, Distributed Storage and HPC & AI Infrastructure
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8786095002 | GitLab (AI Engineering) | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity
+
 ## Procesadas
