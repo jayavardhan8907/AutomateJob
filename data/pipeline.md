@@ -823,4 +823,7 @@
 - [ ] https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616 | Baseten | AI Engineer
 - [ ] https://job-boards.greenhouse.io/thealleninstitute/jobs/7872642 | Allen Institute for AI (AI2) | Senior Software Engineer, Agentic Applications 
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/9e397297-8949-47bf-9c77-bf7b407b3c23 | Twelve Labs | Staff Machine Learning Engineer, Video Ingestion & Serving Platform
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5226095007 | Together AI | Staff Engineer, Distributed Storage and HPC & AI Infrastructure
+
 ## Procesadas
