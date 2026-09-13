@@ -828,4 +828,7 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8786095002 | GitLab (AI Engineering) | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity
 
+- [ ] https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0 | Perplexity AI | Engineering Manager (TLM, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
