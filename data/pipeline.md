@@ -831,4 +831,8 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0 | Perplexity AI | Engineering Manager (TLM, Agents)
 - [ ] https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975 | Cohere | Software Engineer, Security Agents
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8185627 | Intercom | Forward Deployed Data Scientist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8806017002 | GitLab (AI Engineering) | Director of Product Management, Agentic Software Delivery
+
 ## Procesadas
