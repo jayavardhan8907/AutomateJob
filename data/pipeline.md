@@ -835,4 +835,6 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8185627 | Intercom | Forward Deployed Data Scientist
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8806017002 | GitLab (AI Engineering) | Director of Product Management, Agentic Software Delivery
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390902008 | Anthropic | Applied AI Architect, Partnerships
+
 ## Procesadas
