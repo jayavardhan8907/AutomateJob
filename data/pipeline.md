@@ -837,4 +837,9 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390902008 | Anthropic | Applied AI Architect, Partnerships
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426933008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4733702005 | Scale AI | Engineering Manager, Customer Platform (GenAI)
+- [ ] https://jobs.ashbyhq.com/sierra/4572d713-6df1-432a-9cce-67bdbbabf43b | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5597121004 | Hightouch | Manager, Strategy Consultants (Agentic Customer Data Platform)
+
 ## Procesadas
