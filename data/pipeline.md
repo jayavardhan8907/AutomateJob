@@ -842,4 +842,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/4572d713-6df1-432a-9cce-67bdbbabf43b | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5597121004 | Hightouch | Manager, Strategy Consultants (Agentic Customer Data Platform)
 
+- [ ] https://jobs.ashbyhq.com/deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1 | Deepgram | Director, Text-to-Speech Synthesis Research
+
 ## Procesadas
