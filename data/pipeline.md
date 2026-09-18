@@ -844,4 +844,7 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1 | Deepgram | Director, Text-to-Speech Synthesis Research
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 | Anthropic | Staff+ Software Engineer, Storage + Transfer
+- [ ] https://jobs.ashbyhq.com/sierra/15f81581-ad9c-4b03-8ed7-097fbbce0469 | Sierra AI | Strategist, Agent Development - Flagship Deployment
+
 ## Procesadas
