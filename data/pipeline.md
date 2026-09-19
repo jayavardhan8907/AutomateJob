@@ -847,4 +847,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 | Anthropic | Staff+ Software Engineer, Storage + Transfer
 - [ ] https://jobs.ashbyhq.com/sierra/15f81581-ad9c-4b03-8ed7-097fbbce0469 | Sierra AI | Strategist, Agent Development - Flagship Deployment
 
+- [ ] https://jobs.ashbyhq.com/deepgram/821b1ba2-02fe-47cb-907a-39214e0f2fe0 | Deepgram | Staff Product Designer, Conversational AI
+
 ## Procesadas
