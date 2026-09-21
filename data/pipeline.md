@@ -849,4 +849,6 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/821b1ba2-02fe-47cb-907a-39214e0f2fe0 | Deepgram | Staff Product Designer, Conversational AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424310008 | Anthropic | Applied AI Architect
+
 ## Procesadas
