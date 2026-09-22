@@ -853,4 +853,6 @@
 
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Applied AI Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5430869008 | Anthropic | Manager, Applied AI Architect
+
 ## Procesadas
