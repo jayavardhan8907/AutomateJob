@@ -851,4 +851,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424310008 | Anthropic | Applied AI Architect
 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Applied AI Engineer
+
 ## Procesadas
