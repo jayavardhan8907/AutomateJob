@@ -869,4 +869,14 @@
 - [ ] https://jobs.ashbyhq.com/sierra/078f8499-1099-4675-b3df-47cf201e7427 | Sierra AI | Strategist, Agent Development - Public Sector
 - [ ] https://jobs.ashbyhq.com/sierra/2c5928df-28ec-468f-99f3-42b7e73cbf93 | Sierra AI | Strategist, Agent Development - Tech, Media & Telecom
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382518008 | Anthropic | Applied AI Architect, Public Sector 
+- [ ] https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9 | Sierra AI | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803 | Sierra AI | Software Engineer, Agent - Financial Services
+- [ ] https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c | Sierra AI | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0 | Sierra AI | Software Engineer, Agent - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e | Sierra AI | Software Engineer, Agent - Travel & Hospitality
+- [ ] https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402 | Sierra AI | Software Engineer, Agent - Insurance
+- [ ] https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f | Sierra AI | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597805002 | GitLab (AI Engineering) | Senior Product Manager, Agentic Source Code
+
 ## Procesadas
