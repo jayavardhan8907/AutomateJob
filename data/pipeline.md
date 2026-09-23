@@ -862,4 +862,11 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432575008 | Anthropic | Applied AI Engineer, Startups
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5425724008 | Anthropic | Associate Applied AI, Rotational Program, London
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8176526 | Intercom | Senior Data Scientist - Growth 
+- [ ] https://jobs.ashbyhq.com/sierra/01988f90-2d70-48ee-9c01-92e69c37706b | Sierra AI | Strategist, Agent Development - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/d0055259-9801-4767-b659-39e967a88b50 | Sierra AI | Strategist, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/sierra/a2e49318-5967-4509-a592-56f089647b32 | Sierra AI | Strategist, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/078f8499-1099-4675-b3df-47cf201e7427 | Sierra AI | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/2c5928df-28ec-468f-99f3-42b7e73cbf93 | Sierra AI | Strategist, Agent Development - Tech, Media & Telecom
+
 ## Procesadas
