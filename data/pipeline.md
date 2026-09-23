@@ -858,4 +858,8 @@
 - [ ] https://jobs.ashbyhq.com/modal/e5935496-bd80-48ca-9cf9-906ab1352662 | Modal Labs | Member of Technical Staff - Storage
 - [ ] https://jobs.ashbyhq.com/modal/2334a8c8-ca14-4b56-bfa1-9de165e346b4 | Modal Labs | Member of Technical Staff - Lead, Storage
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432573008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432575008 | Anthropic | Applied AI Engineer, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5425724008 | Anthropic | Associate Applied AI, Rotational Program, London
+
 ## Procesadas
