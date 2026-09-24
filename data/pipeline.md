@@ -883,4 +883,6 @@
 
 - [ ] https://www.pathai.com/careers/8842505002?gh_jid=8842505002 | PathAI | Associate Director, MLOps Engineering
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8842963002 | Databricks | Staff Software Engineer, Agent Quality
+
 ## Procesadas
