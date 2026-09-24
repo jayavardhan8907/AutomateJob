@@ -881,4 +881,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8781299002 | GitLab (AI Engineering) | Staff Software Engineer - NLP
 
+- [ ] https://www.pathai.com/careers/8842505002?gh_jid=8842505002 | PathAI | Associate Director, MLOps Engineering
+
 ## Procesadas
