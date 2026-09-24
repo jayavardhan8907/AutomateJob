@@ -879,4 +879,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f | Sierra AI | Software Engineer, Agent - Tech, Media & Telecom
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8597805002 | GitLab (AI Engineering) | Senior Product Manager, Agentic Source Code
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8781299002 | GitLab (AI Engineering) | Staff Software Engineer - NLP
+
 ## Procesadas
