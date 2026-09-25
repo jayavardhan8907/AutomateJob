@@ -885,4 +885,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8842963002 | Databricks | Staff Software Engineer, Agent Quality
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4738120005 | Glean | Machine Learning Engineer, Search Quality
+
 ## Procesadas
