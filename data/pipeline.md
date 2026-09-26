@@ -887,4 +887,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4738120005 | Glean | Machine Learning Engineer, Search Quality
 
+- [ ] https://jobs.ashbyhq.com/perplexity/19d535e2-e0f5-42b6-a995-662d69772168 | Perplexity AI | Engineering Manager, (Multimodal)
+
 ## Procesadas
