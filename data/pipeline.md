@@ -889,4 +889,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/19d535e2-e0f5-42b6-a995-662d69772168 | Perplexity AI | Engineering Manager, (Multimodal)
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+
 ## Procesadas
