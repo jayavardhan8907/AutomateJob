@@ -895,4 +895,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5354765008 | Anthropic | Applied AI Engineer, Enterprise
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432583008 | Anthropic | [London] Applied AI Architect, Partnerships
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436293008 | Anthropic | Software Engineer, Account Abuse (Machine Learning)
+
 ## Procesadas
