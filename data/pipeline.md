@@ -899,4 +899,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432554008 | Anthropic | Applied AI Architects, Partner
+
 ## Procesadas
