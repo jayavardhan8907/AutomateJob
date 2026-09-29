@@ -897,4 +897,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436293008 | Anthropic | Software Engineer, Account Abuse (Machine Learning)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences)
+
 ## Procesadas
