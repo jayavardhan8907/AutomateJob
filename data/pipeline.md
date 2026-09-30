@@ -903,4 +903,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8854693002 | Databricks | Staff Product Designer, Agentic Coding
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439499008 | Anthropic | Applied AI Architects, Partner 
+
 ## Procesadas
