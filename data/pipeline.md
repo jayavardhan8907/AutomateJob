@@ -905,4 +905,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439499008 | Anthropic | Applied AI Architects, Partner 
 
+- [ ] https://jobs.ashbyhq.com/sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b | Sierra AI | Strategist, Agent Development - Travel, Transportation and Hospitality
+
 ## Procesadas
