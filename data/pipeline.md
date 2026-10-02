@@ -907,4 +907,7 @@
 
 - [ ] https://jobs.ashbyhq.com/sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b | Sierra AI | Strategist, Agent Development - Travel, Transportation and Hospitality
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442680008 | Anthropic | Staff Research Engineer, Multi-Agent Scaling
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4740039005 | Scale AI | Product Operations Lead, Generative AI 
+
 ## Procesadas
