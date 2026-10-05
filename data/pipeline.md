@@ -910,4 +910,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442680008 | Anthropic | Staff Research Engineer, Multi-Agent Scaling
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4740039005 | Scale AI | Product Operations Lead, Generative AI 
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8245700 | Intercom | Senior Forward Deployed Data Scientist
+
 ## Procesadas
