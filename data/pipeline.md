@@ -912,4 +912,9 @@
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8245700 | Intercom | Senior Forward Deployed Data Scientist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 | Anthropic | Manager, Applied AI Engineering (Megas) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443871008 | Anthropic | Security Risk & Compliance, Agent Security
+- [ ] https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac | ElevenLabs | Finance Data Scientist
+- [ ] https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c | ElevenLabs | Data Scientist - Product Analytics
+
 ## Procesadas
