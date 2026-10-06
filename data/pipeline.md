@@ -917,4 +917,6 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac | ElevenLabs | Finance Data Scientist
 - [ ] https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c | ElevenLabs | Data Scientist - Product Analytics
 
+- [ ] https://jobs.ashbyhq.com/baseten/aae72bd3-6f75-4238-9741-95fec11facb9 | Baseten | Engineering Manager, Runtime Fabric (Storage Products)
+
 ## Procesadas
