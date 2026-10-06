@@ -919,4 +919,7 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/aae72bd3-6f75-4238-9741-95fec11facb9 | Baseten | Engineering Manager, Runtime Fabric (Storage Products)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008 | Anthropic | Software Engineer, Staff: Applied AI, Science & Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002 | Databricks | Sr. Specialist Solutions Architect -AI&ML Engineer
+
 ## Procesadas
