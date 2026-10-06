@@ -922,4 +922,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008 | Anthropic | Software Engineer, Staff: Applied AI, Science & Engineering
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002 | Databricks | Sr. Specialist Solutions Architect -AI&ML Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445760008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)
+- [ ] https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search & Agents)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002 | Databricks | Staff Security Software Engineer - Agentic Security Engineering 
+
 ## Procesadas
