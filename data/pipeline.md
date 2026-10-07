@@ -929,4 +929,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | Anthropic | Applied AI Engineer, Public Sector 
 - [ ] https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f | Baseten | Product Data Scientist
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Fullstack Engineer (Backend Leaning) - Creative Agents 
+
 ## Procesadas
