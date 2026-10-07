@@ -931,4 +931,11 @@
 
 - [ ] https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Fullstack Engineer (Backend Leaning) - Creative Agents 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5446657008 | Anthropic | Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444482008 | Anthropic | Manager, Applied AI Architecture, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5446029008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945 | ElevenLabs | Full-stack Engineer - Creative Agents
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | Sierra AI | Software Engineer, Agent (Spanish speaking)
+
 ## Procesadas
