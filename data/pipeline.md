@@ -926,4 +926,7 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search & Agents)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002 | Databricks | Staff Security Software Engineer - Agentic Security Engineering 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | Anthropic | Applied AI Engineer, Public Sector 
+- [ ] https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f | Baseten | Product Data Scientist
+
 ## Procesadas
