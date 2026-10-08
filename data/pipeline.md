@@ -938,4 +938,6 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | Sierra AI | Software Engineer, Agent (Spanish speaking)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443882008 | Anthropic | Applied AI Architect
+
 ## Procesadas
