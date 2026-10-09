@@ -943,4 +943,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96 | Sierra AI | Strategist, Agent Development (MBA Grad 2027)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002 | Databricks | Sr. Software Engineer - Storage I/O
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002 | Databricks | Staff Software Engineer - Storage I/O
+
 ## Procesadas
