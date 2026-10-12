@@ -949,4 +949,6 @@
 - [ ] https://jobs.ashbyhq.com/deepgram/12fd68d7-5034-41f5-a992-022691a25f53 | Deepgram | Research Staff, Voice AI Foundations [UK - Remote]
 - [ ] https://jobs.ashbyhq.com/deepgram/c7922eab-cca8-46e8-b073-06ad60337edf | Deepgram | Research Staff, Voice AI Foundations [Remote]
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002 | Databricks | Sr. AI Engineer, AI FDE
+
 ## Procesadas
