@@ -951,4 +951,7 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002 | Databricks | Sr. AI Engineer, AI FDE
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742953005 | Glean | Software Engineer, Agentic Runtime 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
+
 ## Procesadas
