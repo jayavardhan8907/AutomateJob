@@ -957,4 +957,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443331008 | Anthropic | Manager, Applied AI Architect
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002 | Databricks | Sr. Staff Security Software Engineer - Agentic Security Engineering
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Lab Automation)
+
 ## Procesadas
