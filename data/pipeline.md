@@ -959,4 +959,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Lab Automation)
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8871820002 | GitLab (AI Engineering) | Staff Product Manager, Agentic Test Intelligence
+
 ## Procesadas
