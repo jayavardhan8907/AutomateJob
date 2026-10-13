@@ -954,4 +954,7 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742953005 | Glean | Software Engineer, Agentic Runtime 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443331008 | Anthropic | Manager, Applied AI Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002 | Databricks | Sr. Staff Security Software Engineer - Agentic Security Engineering
+
 ## Procesadas
