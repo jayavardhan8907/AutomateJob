@@ -965,4 +965,6 @@
 
 - [ ] https://jobs.ashbyhq.com/baseten/b6ef1aed-8e71-4b31-9cfe-e95d793c8604 | Baseten | Engineering Manager Runtime - Storage 
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+
 ## Procesadas
