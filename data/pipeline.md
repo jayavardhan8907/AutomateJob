@@ -963,4 +963,6 @@
 
 - [ ] https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8 | Modal Labs | Member of Technical Staff - Storage (Stockholm)
 
+- [ ] https://jobs.ashbyhq.com/baseten/b6ef1aed-8e71-4b31-9cfe-e95d793c8604 | Baseten | Engineering Manager Runtime - Storage 
+
 ## Procesadas
