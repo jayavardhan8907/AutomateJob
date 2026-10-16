@@ -967,4 +967,8 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454650008 | Anthropic | Applied AI Engineer, Startups (Life Sciences)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008 | Anthropic | Applied AI Engineer, Startups (Physical AI)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+
 ## Procesadas
