@@ -971,4 +971,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008 | Anthropic | Applied AI Engineer, Startups (Physical AI)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424305008 | Anthropic | Manager, Applied AI Architects - Digital Natives, EMEA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+
 ## Procesadas
