@@ -974,4 +974,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424305008 | Anthropic | Manager, Applied AI Architects - Digital Natives, EMEA
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447368008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4743438005 | Scale AI | Frontier Agent Engineering Manager, Enterprise
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+
 ## Procesadas
