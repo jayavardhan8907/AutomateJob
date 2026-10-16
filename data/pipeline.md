@@ -978,4 +978,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4743438005 | Scale AI | Frontier Agent Engineering Manager, Enterprise
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445806008 | Anthropic | Applied AI Architect, Security Specialist 
+
 ## Procesadas
