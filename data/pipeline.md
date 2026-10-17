@@ -980,4 +980,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445806008 | Anthropic | Applied AI Architect, Security Specialist 
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005 | Glean | Machine Learning Engineer, Enterprise Brain
+
 ## Procesadas
