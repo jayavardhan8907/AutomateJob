@@ -982,4 +982,6 @@
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005 | Glean | Machine Learning Engineer, Enterprise Brain
 
+- [ ] https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity AI | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
+
 ## Procesadas
