@@ -984,4 +984,7 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity AI | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456581008 | Anthropic | Manager of Applied AI Architecture, Industries 
+- [ ] https://jobs.ashbyhq.com/deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b | Deepgram | Research Staff, Applied Voice AI
+
 ## Procesadas
