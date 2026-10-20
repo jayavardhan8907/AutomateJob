@@ -987,4 +987,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456581008 | Anthropic | Manager of Applied AI Architecture, Industries 
 - [ ] https://jobs.ashbyhq.com/deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b | Deepgram | Research Staff, Applied Voice AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455961008 | Anthropic | Applied AI Demo Engineer
+
 ## Procesadas
