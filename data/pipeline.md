@@ -991,4 +991,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161402008 | Anthropic | Data Scientist, Growth
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454442008 | Anthropic | Manager, Applied AI Cyber Specialists
+
 ## Procesadas
