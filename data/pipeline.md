@@ -989,4 +989,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455961008 | Anthropic | Applied AI Demo Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161402008 | Anthropic | Data Scientist, Growth
+
 ## Procesadas
