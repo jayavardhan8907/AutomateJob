@@ -993,4 +993,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454442008 | Anthropic | Manager, Applied AI Cyber Specialists
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5460216008 | Anthropic | Technical Program Manager, Agent Safety & Security 
+
 ## Procesadas
