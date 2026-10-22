@@ -995,4 +995,9 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5460216008 | Anthropic | Technical Program Manager, Agent Safety & Security 
 
+- [ ] https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8 | Pinecone | Applied AI Engineer (Full-Stack)
+- [ ] https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b | Cohere | Senior Software Engineer, Agent Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | Sierra AI | Software Engineer, Agent Runtime
+- [ ] https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d | Sierra AI | Software Engineer, Agent Builder
+
 ## Procesadas
