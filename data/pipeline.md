@@ -1006,4 +1006,7 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | Glean | AI Engineer - Quality and Post-Training
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4579657005 | Glean | Product Manager, Agent Security & Governance
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5461873008 | Anthropic | Applied AI Security Architect - Healthcare & Life Sciences
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8909618002 | GitLab (AI Engineering) | Staff Product Manager, Agentic Planning
+
 ## Procesadas
