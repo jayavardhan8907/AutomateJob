@@ -1000,4 +1000,10 @@
 - [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | Sierra AI | Software Engineer, Agent Runtime
 - [ ] https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d | Sierra AI | Software Engineer, Agent Builder
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455627008 | Anthropic | Applied AI Architect, Public Sector (Federal Civilan)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5460211008 | Anthropic | Applied AI Architect, Public Sector (GovTech)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 | Glean | AI Engineer - Data and Evals
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | Glean | AI Engineer - Quality and Post-Training
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4579657005 | Glean | Product Manager, Agent Security & Governance
+
 ## Procesadas
