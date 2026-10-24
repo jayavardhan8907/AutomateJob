@@ -1009,4 +1009,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5461873008 | Anthropic | Applied AI Security Architect - Healthcare & Life Sciences
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8909618002 | GitLab (AI Engineering) | Staff Product Manager, Agentic Planning
 
+- [ ] https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
