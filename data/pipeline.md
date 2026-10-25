@@ -1011,4 +1011,6 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462893008 | Anthropic | Enforcement Analyst, Agentic Alignment
+
 ## Procesadas
