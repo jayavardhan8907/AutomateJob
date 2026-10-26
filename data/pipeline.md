@@ -1013,4 +1013,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462893008 | Anthropic | Enforcement Analyst, Agentic Alignment
 
+- [ ] https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agent Engine)
+
 ## Procesadas
