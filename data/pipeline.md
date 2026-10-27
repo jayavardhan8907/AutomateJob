@@ -1015,4 +1015,8 @@
 
 - [ ] https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agent Engine)
 
+- [ ] https://jobs.ashbyhq.com/perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de | Perplexity AI | Engineering Manager (Agent Engine)
+- [ ] https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae | Baseten | Software Engineer, Networking (Agent Infra)
+- [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | Baseten | Software Engineer, Storage Systems (Agent Infra)
+
 ## Procesadas
