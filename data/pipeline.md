@@ -1019,4 +1019,7 @@
 - [ ] https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae | Baseten | Software Engineer, Networking (Agent Infra)
 - [ ] https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d | Baseten | Software Engineer, Storage Systems (Agent Infra)
 
+- [ ] https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db | Sierra AI | Software Engineer, Agent (New Grad 2027)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4747506005 | Scale AI | Frontier Agent Engineering Manager, Enterprise
+
 ## Procesadas
