@@ -1022,4 +1022,8 @@
 - [ ] https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db | Sierra AI | Software Engineer, Agent (New Grad 2027)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4747506005 | Scale AI | Frontier Agent Engineering Manager, Enterprise
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5464493008 | Anthropic | Tech Lead Manager, Core Apps Data Scientist
+- [ ] https://jobs.ashbyhq.com/sierra/69ca85f1-240b-493e-9fe5-e2b03ffa2dd0 | Sierra AI | Strategist Lead, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/2c61a0f5-b4aa-4c06-86f0-991d6039de17 | Sierra AI | Executive Assistant, Sales & Agent Development
+
 ## Procesadas
