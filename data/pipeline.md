@@ -1026,4 +1026,6 @@
 - [ ] https://jobs.ashbyhq.com/sierra/69ca85f1-240b-493e-9fe5-e2b03ffa2dd0 | Sierra AI | Strategist Lead, Agent Development
 - [ ] https://jobs.ashbyhq.com/sierra/2c61a0f5-b4aa-4c06-86f0-991d6039de17 | Sierra AI | Executive Assistant, Sales & Agent Development
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002 | Databricks | Staff Machine Learning Engineer, CustomerLake (ML/LLM)
+
 ## Procesadas
