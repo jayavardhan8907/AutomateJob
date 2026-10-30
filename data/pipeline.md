@@ -1028,4 +1028,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002 | Databricks | Staff Machine Learning Engineer, CustomerLake (ML/LLM)
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922013002 | GitLab (AI Engineering) | Data Scientist, Enterprise Analytics
+
 ## Procesadas
