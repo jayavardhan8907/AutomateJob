@@ -1030,4 +1030,8 @@
 
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8922013002 | GitLab (AI Engineering) | Data Scientist, Enterprise Analytics
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450798008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4726336005 | Glean | Product Manager, Agents
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002 | Databricks | Evergreen - AI Engineer, AI FDE
+
 ## Procesadas
