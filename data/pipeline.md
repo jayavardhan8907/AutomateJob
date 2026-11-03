@@ -1040,4 +1040,8 @@
 
 - [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | Palantir | Software Engineer - Applied AI, Defense Applications
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5471361008 | Anthropic | Applied AI Architect, Beneficial Deployments (Global & Public Health)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455618008 | Anthropic | Applied AI Architect, Public Sector (State & Local Government)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5467893008 | Anthropic | Data Scientist, Finance Forecasting
+
 ## Procesadas
