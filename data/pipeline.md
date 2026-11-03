@@ -1038,4 +1038,6 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002 | Databricks | Sr. Staff Software Engineer, Agentic Applications
 - [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | Palantir | Software Engineer - Applied AI, Defense Applications
 
+- [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | Palantir | Software Engineer - Applied AI, Defense Applications
+
 ## Procesadas
