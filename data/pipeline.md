@@ -1034,4 +1034,8 @@
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4726336005 | Glean | Product Manager, Agents
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002 | Databricks | Evergreen - AI Engineer, AI FDE
 
+- [ ] https://jobs.ashbyhq.com/deepgram/dd71e31d-2b22-4e9b-8f24-bdd221ea13fa | Deepgram | Research Staff, LLMs [EMEA - Remote]
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002 | Databricks | Sr. Staff Software Engineer, Agentic Applications
+- [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | Palantir | Software Engineer - Applied AI, Defense Applications
+
 ## Procesadas
