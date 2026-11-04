@@ -1044,4 +1044,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455618008 | Anthropic | Applied AI Architect, Public Sector (State & Local Government)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5467893008 | Anthropic | Data Scientist, Finance Forecasting
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424312008 | Anthropic | Head of ASEAN, Applied AI
+
 ## Procesadas
