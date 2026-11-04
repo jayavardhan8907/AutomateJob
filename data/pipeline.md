@@ -1046,4 +1046,7 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424312008 | Anthropic | Head of ASEAN, Applied AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5461252008 | Anthropic | Applied AI Architect ( Global Customers)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472677008 | Anthropic | Applied AI Architect, Partnerships
+
 ## Procesadas
