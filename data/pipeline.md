@@ -1051,4 +1051,6 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751081005 | Scale AI | Senior Applied AI Engineer
 
+- [ ] https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI
+
 ## Procesadas
