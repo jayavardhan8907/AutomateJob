@@ -1053,4 +1053,6 @@
 
 - [ ] https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI
 
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750028005 | Scale AI | Staff Software Engineer, AI Developer Tooling
+
 ## Procesadas
