@@ -1055,4 +1055,93 @@
 
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750028005 | Scale AI | Staff Software Engineer, AI Developer Tooling
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5473198008 | Anthropic | Applied AI Architect, Democratic Partnerships 
+- [ ] https://jobs.ashbyhq.com/Deepgram/7cf277bc-a192-4007-a77a-fafbf8276a5e | Deepgram | Research Staff, Voice AI Foundations
+- [ ] https://jobs.ashbyhq.com/Deepgram/1518fd8f-7e9d-4712-9e6b-a7e10ba25bdd | Deepgram | Research Staff, Voice AI Foundations - Remote
+- [ ] https://jobs.ashbyhq.com/Deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54 | Deepgram | Senior Data Scientist, Audio
+- [ ] https://jobs.ashbyhq.com/Deepgram/12fd68d7-5034-41f5-a992-022691a25f53 | Deepgram | Research Staff, Voice AI Foundations [UK - Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/c7922eab-cca8-46e8-b073-06ad60337edf | Deepgram | Research Staff, Voice AI Foundations [Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/39c2b79b-0269-4711-9354-be5ccf747a98 | Deepgram | Research Staff, LLMs
+- [ ] https://jobs.ashbyhq.com/Deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Senior Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent)
+- [ ] https://jobs.ashbyhq.com/Deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer -  Edge Devices
+- [ ] https://jobs.ashbyhq.com/Deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
+- [ ] https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323 | Deepgram | Director of Research, Text-to-Speech
+- [ ] https://jobs.ashbyhq.com/Deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1 | Deepgram | Director, Text-to-Speech Synthesis Research
+- [ ] https://jobs.ashbyhq.com/Deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b | Deepgram | Research Staff, Applied Voice AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/dd71e31d-2b22-4e9b-8f24-bdd221ea13fa | Deepgram | Research Staff, LLMs [EMEA - Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity AI | Member of Technical Staff (Software Engineer, Applied AI)
+- [ ] https://jobs.ashbyhq.com/Perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0 | Perplexity AI | Member of Data Staff (Data Scientist)
+- [ ] https://jobs.ashbyhq.com/Perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c | Perplexity AI | Member of Technical Staff (Machine Learning Research Engineer)
+- [ ] https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81 | Perplexity AI | Member of Technical Staff (Software Engineer, Multimodal)
+- [ ] https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91 | Perplexity AI | Member of Technical Staff (ML Engineer, Recommendations & User Modeling)
+- [ ] https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity AI | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
+- [ ] https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)
+- [ ] https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2 | Perplexity AI | Applied AI Architect, Perplexity Computer
+- [ ] https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0 | Perplexity AI | Member of Technical Staff (Applied AI Engineer, Agent Capabilities)
+- [ ] https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2 | Perplexity AI | Member of Technical Staff (Machine Learning Engineer, Search Agent RL)
+- [ ] https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760 | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agent Engine)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de | Perplexity AI | Engineering Manager (Agent Engine)
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac | ElevenLabs | Finance Data Scientist
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents 
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751059005 | Scale AI | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/Sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra AI | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba | Sierra AI | Product Manager, Agent Development (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2 | Sierra AI | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412 | Sierra AI | Product Manager, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/4892f01e-8871-4b32-8963-527f1cf8db5d | Sierra AI | Product Manager, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra AI | Software Engineer, Agent (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra AI | Software Engineer, Agent (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra AI | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/2dee25a0-a0c1-425e-b67a-9d49fc821369 | Sierra AI | Engineering Manager, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/8d46d44c-8294-4807-a6b1-5087f0506a38 | Sierra AI | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e | Sierra AI | Strategist, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra AI | Software Engineer, Agent (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d | Sierra AI | Product Manager, Agent Development (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/1045b1db-228b-40df-97d8-a8f9371d35bd | Sierra AI | Strategist, Agent Development (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/034c2c56-357f-4ed2-9da7-f4d36a999385 | Sierra AI | Strategist, Agent Development (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64 | Sierra AI | Product Manager, Agent Development (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra AI | Software Engineer, Agent (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/0e73be8d-e05f-4c47-aa74-416b2984334c | Sierra AI | Strategist, Agent Development (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/44120ba5-4cf7-48a1-86af-7981c41c179e | Sierra AI | Strategist, Agent Development 
+- [ ] https://jobs.ashbyhq.com/Sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra AI | Strategist, Agent Development (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c | Sierra AI | Product Manager, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9 | Sierra AI | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872 | Sierra AI | GTM Operations, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73 | Sierra AI | Product Manager, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra AI | Product Manager, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra AI | Software Engineer, Agent (Dutch speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/611a6f2c-b6f8-4dfd-9ae8-4b0b986ac258 | Sierra AI | Strategist, Agent Development (Dutch speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9d54f016-7919-457b-a298-17a536ab8c5c | Sierra AI | Strategist, Agent Development (Flemish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra AI | Software Engineer, Agent (Mandarin Speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra AI | Software Engineer, Agent (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/575cf637-3a7a-4d9c-883c-8b0265811984 | Sierra AI | Agent Strategist
+- [ ] https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra AI | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6 | Sierra AI | Product Manager, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f | Sierra AI | Strategist, Agent Development (Swedish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992 | Sierra AI | Strategist, Agent Development (Norwegian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/4572d713-6df1-432a-9cce-67bdbbabf43b | Sierra AI | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/15f81581-ad9c-4b03-8ed7-097fbbce0469 | Sierra AI | Strategist, Agent Development - Flagship Deployment
+- [ ] https://jobs.ashbyhq.com/Sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | Sierra AI | Software Engineer, Agent Runtime
+- [ ] https://jobs.ashbyhq.com/Sierra/200df475-2175-45ce-9510-7d04afabd08d | Sierra AI | Software Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/Sierra/01988f90-2d70-48ee-9c01-92e69c37706b | Sierra AI | Strategist, Agent Development - Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803 | Sierra AI | Software Engineer, Agent - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b | Sierra AI | Strategist, Agent Development - Travel, Transportation and Hospitality
+- [ ] https://jobs.ashbyhq.com/Sierra/7dae2e7c-6556-438c-bf60-509931d8188c | Sierra AI | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/c729c633-0376-436e-8f2b-1501088b85b0 | Sierra AI | Software Engineer, Agent - Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/d0055259-9801-4767-b659-39e967a88b50 | Sierra AI | Strategist, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e | Sierra AI | Software Engineer, Agent - Travel , Transportation & Hospitality
+- [ ] https://jobs.ashbyhq.com/Sierra/a2e49318-5967-4509-a592-56f089647b32 | Sierra AI | Strategist, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/078f8499-1099-4675-b3df-47cf201e7427 | Sierra AI | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402 | Sierra AI | Software Engineer, Agent - Insurance
+- [ ] https://jobs.ashbyhq.com/Sierra/2c5928df-28ec-468f-99f3-42b7e73cbf93 | Sierra AI | Strategist, Agent Development - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/Sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f | Sierra AI | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/Sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96 | Sierra AI | Strategist, Agent Development (MBA Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/69ca85f1-240b-493e-9fe5-e2b03ffa2dd0 | Sierra AI | Strategist Lead, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/2c61a0f5-b4aa-4c06-86f0-991d6039de17 | Sierra AI | Executive Assistant, Sales & Agent Development
+
 ## Procesadas
