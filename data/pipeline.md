@@ -1154,4 +1154,9 @@
 - [ ] https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra AI | Software Engineer, Agent (New Grad 2027)
 - [ ] https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | Sierra AI | Software Engineer, Agent (Spanish speaking)
 
+- [ ] https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/99e82c10-977f-4b42-a737-2d9812ce614d | Sierra AI | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db | Sierra AI | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5 | Sierra AI | Strategist, Agent Development (Spanish speaking)
+
 ## Procesadas
