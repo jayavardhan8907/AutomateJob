@@ -1161,4 +1161,6 @@
 
 - [ ] https://jobs.ashbyhq.com/Sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra AI | Software Engineer, Agent
 
+- [ ] https://jobs.ashbyhq.com/Sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23 | Sierra AI | Software Engineer, Agent
+
 ## Procesadas
