@@ -1169,4 +1169,7 @@
 
 - [ ] https://jobs.ashbyhq.com/Sierra/787c1efd-2327-46e7-9335-59a20ad4be18 | Sierra AI | Software Engineer, Agent
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5476577008 | Anthropic | Applied AI Architect
+- [ ] https://jobs.ashbyhq.com/Sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra AI | Software Engineer, Agent
+
 ## Procesadas
