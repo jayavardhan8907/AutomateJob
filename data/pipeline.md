@@ -1175,4 +1175,8 @@
 - [ ] https://www.pathai.com/careers/8935019002?gh_jid=8935019002 | PathAI | Staff Machine Learning Engineer
 - [ ] https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2 | Cohere | Adoption Specialist - Infrastructure & Agentic 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394611008 | Anthropic | Engineering Manager, Agent Security Partnerships
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751149005 | Scale AI | Senior Applied AI Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002 | Databricks | Applied AI Architect
+
 ## Procesadas
