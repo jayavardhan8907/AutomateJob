@@ -1172,4 +1172,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5476577008 | Anthropic | Applied AI Architect
 - [ ] https://jobs.ashbyhq.com/Sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra AI | Software Engineer, Agent
 
+- [ ] https://www.pathai.com/careers/8935019002?gh_jid=8935019002 | PathAI | Staff Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2 | Cohere | Adoption Specialist - Infrastructure & Agentic 
+
 ## Procesadas
