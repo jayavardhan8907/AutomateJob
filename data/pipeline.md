@@ -1179,4 +1179,6 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751149005 | Scale AI | Senior Applied AI Engineer
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002 | Databricks | Applied AI Architect
 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002 | Databricks | Sr. Research Scientist - Agent Flywheel
+
 ## Procesadas
