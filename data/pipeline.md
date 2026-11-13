@@ -1181,4 +1181,6 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002 | Databricks | Sr. Research Scientist - Agent Flywheel
 
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/709b53e4-9db5-47ae-9c4b-a6fb9f33044c | ElevenLabs | Application Security Engineer - Agents platform
+
 ## Procesadas
