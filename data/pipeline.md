@@ -1183,4 +1183,6 @@
 
 - [ ] https://jobs.ashbyhq.com/ElevenLabs/709b53e4-9db5-47ae-9c4b-a6fb9f33044c | ElevenLabs | Application Security Engineer - Agents platform
 
+- [ ] https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agent Engine)
+
 ## Procesadas
