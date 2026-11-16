@@ -1185,4 +1185,6 @@
 
 - [ ] https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b | Perplexity AI | Member of Technical Staff (AI Software Engineer, Agent Engine)
 
+- [ ] https://jobs.ashbyhq.com/twelve-labs/43cd6f40-e26f-426f-a611-0d05a83aa474 | Twelve Labs | Staff ML Research Engineer, Multimodal Structure & Marengo
+
 ## Procesadas
