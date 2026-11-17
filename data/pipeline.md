@@ -1187,4 +1187,6 @@
 
 - [ ] https://jobs.ashbyhq.com/twelve-labs/43cd6f40-e26f-426f-a611-0d05a83aa474 | Twelve Labs | Staff ML Research Engineer, Multimodal Structure & Marengo
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484035008 | Anthropic | Applied AI Architect, Beneficial Deployments (Non-Profits)
+
 ## Procesadas
