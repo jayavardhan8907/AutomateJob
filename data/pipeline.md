@@ -1189,4 +1189,6 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484035008 | Anthropic | Applied AI Architect, Beneficial Deployments (Non-Profits)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5482967008 | Anthropic | [Paris] Applied AI Architect, Industries
+
 ## Procesadas
