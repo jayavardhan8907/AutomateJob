@@ -1191,4 +1191,7 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5482967008 | Anthropic | [Paris] Applied AI Architect, Industries
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 | Anthropic | Applied AI Engineer, Commercial
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8374568 | Intercom | GTM Data Scientist
+
 ## Procesadas
