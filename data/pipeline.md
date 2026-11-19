@@ -1197,4 +1197,6 @@
 - [ ] https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410 | Perplexity AI | Member of Technical Staff (Software Engineer, Agent Verticals)
 - [ ] https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b | Baseten | Software Engineer - Compute & Isolation (Agent Infra)
 
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c | ElevenLabs | Data Scientist - Product Analytics
+
 ## Procesadas
