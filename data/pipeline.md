@@ -1201,4 +1201,7 @@
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8403398 | Intercom | Senior Forward Deployed Data Scientist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5486780008 | Anthropic | Applied AI Architect, Beneficial Deployment
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8403407 | Intercom | Senior Forward Deployed Data Scientist
+
 ## Procesadas
