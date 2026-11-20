@@ -1204,4 +1204,7 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5486780008 | Anthropic | Applied AI Architect, Beneficial Deployment
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8403407 | Intercom | Senior Forward Deployed Data Scientist
 
+- [ ] https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987 | LangChain | Agent Engineer, Pre-sales
+- [ ] https://jobs.ashbyhq.com/Perplexity/d291c382-7252-45e5-8b47-ecec5d6be157 | Perplexity AI | Engineering Manager (Agent Verticals)
+
 ## Procesadas
