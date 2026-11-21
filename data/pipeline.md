@@ -1207,4 +1207,6 @@
 - [ ] https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987 | LangChain | Agent Engineer, Pre-sales
 - [ ] https://jobs.ashbyhq.com/Perplexity/d291c382-7252-45e5-8b47-ecec5d6be157 | Perplexity AI | Engineering Manager (Agent Verticals)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5480986008 | Anthropic | Manager, Applied AI Architect
+
 ## Procesadas
