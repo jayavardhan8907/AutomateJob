@@ -1209,4 +1209,11 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5480986008 | Anthropic | Manager, Applied AI Architect
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5491480008 | Anthropic | Applied AI Architect, Technology Partnerships
+- [ ] https://jobs.ashbyhq.com/Perplexity/a2c00e70-8d38-441a-8633-ff1dbfbc94ee | Perplexity AI | Engineering Manager (Agent Verticals)
+- [ ] https://jobs.ashbyhq.com/Sierra/bbdd8536-0033-4759-95f2-23e44af93292 | Sierra AI | Strategist, Agent Development (Swedish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/227a947a-bc89-4629-bae7-ce0753558411 | Sierra AI | Strategist, Agent Development (Dutch speaking)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5302781007 | Together AI | Forward Deployed Engineer (Applied AI)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8940982002 | GitLab (AI Engineering) | Applied AI Engineer, Enterprise AI
+
 ## Procesadas
