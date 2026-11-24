@@ -1216,4 +1216,8 @@
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5302781007 | Together AI | Forward Deployed Engineer (Applied AI)
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8940982002 | GitLab (AI Engineering) | Applied AI Engineer, Enterprise AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5486776008 | Anthropic | Applied AI Architect, Beneficial Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5466640008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://jobs.ashbyhq.com/Sierra/8c3f4128-2618-4b92-a148-b9669efd8a48 | Sierra AI | Software Engineer, Agent
+
 ## Procesadas
