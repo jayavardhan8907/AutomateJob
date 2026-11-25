@@ -1220,4 +1220,8 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5466640008 | Anthropic | Applied AI Architect, Industries
 - [ ] https://jobs.ashbyhq.com/Sierra/8c3f4128-2618-4b92-a148-b9669efd8a48 | Sierra AI | Software Engineer, Agent
 
+- [ ] https://jobs.ashbyhq.com/Sierra/64219d65-4f2e-495c-9109-71e6cdacb91a | Sierra AI | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | Baseten | Software Engineer, Core Platform (Agent Infra)
+- [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | Baseten | Site Reliability / Cloud Platform Engineer (Agent Infra)
+
 ## Procesadas
