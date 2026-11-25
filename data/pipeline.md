@@ -1224,4 +1224,9 @@
 - [ ] https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c | Baseten | Software Engineer, Core Platform (Agent Infra)
 - [ ] https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1 | Baseten | Site Reliability / Cloud Platform Engineer (Agent Infra)
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4757997005 | Glean | Technical Program Manager, LLM Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8416797 | Intercom | Senior Forward Deployed Data Scientist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8416997 | Intercom | Senior Product Manager (Customer Agent Team) Berlin
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8417107 | Intercom | Staff Product Manager (Customer Agent Team)
+
 ## Procesadas
