@@ -1229,4 +1229,6 @@
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8416997 | Intercom | Senior Product Manager (Customer Agent Team) Berlin
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8417107 | Intercom | Staff Product Manager (Customer Agent Team)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8416775 | Intercom | Senior Forward Deployed Data Scientist
+
 ## Procesadas
