@@ -1231,4 +1231,6 @@
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8416775 | Intercom | Senior Forward Deployed Data Scientist
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8963786002 | GitLab (AI Engineering) | Data Scientist, Enterprise Analytics
+
 ## Procesadas
